@@ -1,0 +1,5095 @@
+﻿//CHANGES DONE ON 22 MARCH 10 30 pM Aishwarya
+﻿1.जंजिरा अभेद्य दुर्ग होता
+os:Janjira was(occured) impenetrable fort 
+gt:Janjira was rock
+
+rt:Janjira was impenetrable fort
+
+2.हिमालय खूप उंच आहे
+os:Himalaya is very tall
+gt:Himalaya is too high
+rt:Himalaya is very tall
+
+3.नाशिकमध्ये गोदावरी उगम पावते
+In Nashik Godavari gets rise 
+gt:Flows from the Godavari in Nashik
+rt:Godavari originates from Nashik
+
+4.रस्ता नागमोडी आहे
+Road is wavy
+gt:The road is wavy
+rt:Road is wavy
+
+5.कोकण हिर्वगार आहे
+Konkan is green
+gt:Konkan is hirvagara
+rt:Konkan is green
+
+6.पृथ्वी गोल आहे
+Earth is circle(round)
+gt:The earth is round
+rt:earth is round
+
+7.जंगलात वाघ दिसला
+In forest looks tiger 
+gt:Saw the tiger in the forest
+rt:tiger was seen in the forest
+
+8.उत्तारखंडमध्ये खूप पाउस आहे
+In Uttarakhanda is very rain 
+gt:There is a lot of rain uttarakhanda
+rt:There is lot of rain in Uttarakhanda
+
+9.राजस्थानमध्ये खूप उन्हाळा आहे
+Rajasthan is very hot
+gt:Rajasthan is very summer
+rt:There is harsh summer in Rajasthan
+
+10.मुंबई महाराष्ट्राची राजधानी आहे
+Mumbai is Maharashtra's capital 
+gt:Mumbai is the capital of Maharashtra
+rt:Mumbai is the capital of Maharashtra
+
+11.कोकणात काजूची बाग आहे
+In Konkan is cashew's garden 
+gt:There is a garden Cashew
+rt:There is Cashew's garden in Konkan
+
+12.औरंगाबादचा किल्ला सुंदर आहे
+Aurangabad's fort is beautiful
+gt:Aurangabad castle is beautiful
+rt:Aurangabad's fort is beautiful
+
+13.केरळची संस्कृती हजारो वर्षे जुनी आहे
+Kerala's culture is thousands of years old
+gt:Kerala's culture is thousands of years old
+rt:Kerala's culture is thousands of years old
+
+14.उन्हाळ्यात थंड रस्ता सर्वांना मोहित करतो
+In summer cold road does enamour all
+gt:Way cool summer that captivated everyone
+rt:Cool road in summer enamours everyone
+
+15.शालीमार एक उद्यान आहे
+One park is shalimar
+gt:Shalimar is a garden
+rt:Shalimar is a garden
+
+16.हे स्थान संगीतमय भाग म्हटले जाते
+This place is called musical portion 
+gt:This place is called the musical
+rt:this place is called musical portion
+
+17.आम्ही त्रिपुराला चाललो
+We going to Tripura 
+gt:We walked in Tripura
+rt:We are going to Tripura
+
+18.लोणावळ्याला चिक्की मिळते
+To Lonavla had Chikki 
+gt:Lonavla get Chikki
+rt:Chikki is available in Lonavla
+
+19.पुण्यात थंडी वाढत आहे
+Cold is growing in Pune  
+gt:Pune is growing cold
+rt:cold is growing in Pune
+
+20.हरिहरेश्‍वरचा समुद्र धोकादायक आहे
+Harihareshwar's sea is dangerous 
+gt:Hariharesvaraca sea is dangerous
+rt:Harihareshwar's sea is dangerous 
+
+21.हेदवीचा गणपती प्रसिद्ध आहे
+Hedvi's Ganpati is popular
+gt:Hedavica Ganapati is famous
+rt:Hedvi's Ganpati is popular
+
+22.सिंहगड मोठा किल्ला आहे
+Sinhagad is big fort
+gt:Sinhagad fort is large
+rt:Sinhagad is big fort
+
+23.सिंहगड किल्ला कलात्मक आहे
+Sinhagad fort is artistic
+gt:Sinhagad fort is artistic
+rt:Sinhagad fort is artistic
+
+24.काशीची साडी सुरेख असते
+Kashi's saree is fine
+gt:Banaras Saree is fine
+rt:Kashi's saree is fine
+
+25.आम्ही रोज पर्वतीवर जातो
+We go on parvati daily
+gt:We are daily Parvati
+rt:We go to Parvati daily
+
+26.आग्र्याचा पेठा चविष्ट असतो
+Agra's petha is tasty
+gt:Agra is tasty Petha
+rt:Agra's petha is tasty
+
+27.गुहागर आमचे गाव आहे
+Guhagar is our village
+gt:Guhagar is our Village
+rt:Guhagar is our Village
+
+28.नागपूरला संत्री खूप मिळतात
+Got very oranges to Nagpur 
+gt:Nagpur orange are very
+rt:We get many oranges at Nagpur
+
+29.दरी खूप खोल आहे
+Valley is very deep
+gt:The valley is too deep
+rt:valley is very deep
+
+30.याला बास्पा घाट असेही म्हणतात
+This is also called Baspa valley 
+gt:It is also baspa Bell
+rt:this is also called Baspa valley 
+
+31.श्रीनगरला जम्मूकाश्मीरचा गौरव असेही म्हणतात
+Srinagar is also called Jammu and Kashmir's pride 
+gt:Also called the glory of Srinagar jammukasmiraca
+rt:Srinagar is also called Jammu and Kashmir's pride
+
+32.पटनीटाप येथे एक सुंदर तलाव आहे
+Here is one beautiful pond in Patnitop
+gt:Here is a beautiful lake patanitapa
+rt:in Patnitap is one beautiful pond 
+
+33.पटनीटाप क्षेत्र सौंदर्याचे प्रतीक मानले जाते
+Patnitop area is considered beauty's symbol 
+gt:Patanitapa area is considered a symbol of beauty
+rt:Patanitapa area is considered a symbol of beauty
+
+34.मुंबईत गर्दी असते
+In Mumbai is crowd 
+gt:Mumbai is crowded
+rt:Mumbai is crowded
+
+35.लोहगडावर पावसाळ्यात जावे
+On lohagad go in rainy season
+gt:Lohagada to be the rainy season
+rt:should go to Lohagad in rainy season
+
+36.आगगाडी सुसाट धावते
+Train runs fast
+gt:Bring a running rail
+rt:trains runs fast
+
+37.डोंगराचा रस्ता कठीण आहे
+Mountain's road is difficult
+gt:Mountains on the road is difficult
+rt:hilly road is very difficult
+
+38.दिल्ली दूर नाही
+Delhi not far
+gt:Not far from Delhi
+rt:Delhi is not far
+
+39.येथे शहीदांचे स्मारक अाहे
+Here is martyr's memorial 
+gt:At the memorial might sahidance
+rt:There is a martyr's memorial here
+
+40.आम्ही त्रिपुराला चाललो
+We going to tripura
+gt:We walked in Tripura
+rt:we are going to Tripura
+
+41.मुंबईचा रस्ता बंद आहे
+Mumbai's road is closed 
+gt:Mumbai road is closed
+rt:Mumbai's road is closed
+
+42.विमान उशिरा आहे
+Plane is late
+gt:Plane is late
+rt:plane is late
+
+43.पुण्याची बस बंद आहे
+Pune's bus is closed
+gt:Pune bus stop
+rt:Pune's bus is closed
+
+44.केरळमध्ये चहाचा मळा आहे
+In Kerala is tea's garden
+gt:Kerala is the tea garden
+rt:in Kerala are tea gardens
+
+45.कोकणचा आंबा देशभर विकतात
+Konkan's mango is sold countrywide
+gt:Sell the land known as' Konkan mango
+rt:Konkan's mango is sold countrywide
+
+46.कोकणात समुद्र आहे
+In kokan is sea
+gt:There is water
+rt:there is sea in Konkan
+
+47.मुंबई पुण्यापासून जवळ आहे
+Mumbai is nearby from Pune 
+gt:Mumbai is near Pune
+rt:Mumbai is nearby from Pune
+
+48.महाबळेश्वर थंड हवेचे ठिकाण आहे
+Mahableshwar is cold wind's place 
+gt: Mahabaleshwar is a hill station
+rt: Mahabaleshwar is place of cold winds
+
+49.मी मुंबईला जात आहे
+I am going to Mumbai 
+gt: I am going to Mumbai
+rt:I am going to Mumbai
+
+50.मी घरी गेलो
+I went in the home 
+gt: I went to the house
+rt:I went home
+
+51.सिंहगडाला १०० पायर्या अाहेत
+Sinhagad has 100 stairs
+gt: sinhagadala 100 steps might
+rt:Sinhagad has 100 steps
+
+52.त्रिपुरामध्ये १५० मंदिरे अाहेत
+Tripura has 150 temples
+gt: 150 temples in Tripura might
+rt:Tripura has 150 temples
+
+53.संग्रहालय शिमलाहून ६५ किलोमीटर अंतरावर अाहे
+Museum is 65 kilometers distance from Shimla 
+gt: Museum simalahuna 65 kilometers might
+rt:Museum is 65 kilometers from Shimla
+
+54.शिमला पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Shimla is one divine experience tourist 
+gt: Shimla traveler might experience a divine
+rt:Shimla is a divine experience for tourists.
+
+55.त्रिपुरात ३ पर्यटक स्थळे अाहेत
+Tripura has 3 tourist place 
+gt: tourist destinations might Tripura 3
+rt:Tripura has 3 tourist spots.
+
+56.मंदिर १० पावलांवर अाहे
+Temple is 10 on steps 
+gt: Temple is 10 feet on the might
+rt:Temple is on 10 steps
+
+57. ती मूर्ती १० मीटर उंच अाहे
+This idol is 10 meters tall 
+gt: The 10-meter tall statue of might
+rt:That idol is 10 meters tall
+
+58.येथे ३ नद्यांचा संगम अाहे
+Here is 3 river's confluence
+gt: at 3 confluence might
+rt:Here is confluence of 3 rivers
+
+59.येथे २२६ कांस्य नाणी मिळाली
+Here got 226 bronze coins
+gt: 226 bronze coins found at
+rt:Here 226 bronze coins were found
+
+60.येथे छायाचित्रण करणे सुखद अनुभव आहे
+Here do photography is delightful experience 
+gt:Here is a pleasant experience to Photography
+rt:Here photography is delightful experience 
+
+61.गुहा अंदाजे १५० किलोमीटर लांब अाहे
+Cave is about 150 kilometers long 
+gt: About 150 km long cave might
+rt:cave is approximately 150 kilometer long
+
+62.गुलमर्ग शहरापासुन ५२ किलोमीटर अंतरावर अाहे
+Gulmarg is 52 kilometers distance from city 
+gt: Gulmarg 52 kms might saharapasuna
+rt:Gulmarg is at a distance of 52 kms from city
+
+63.पुणे १०० वर्षे जुने अाहे
+Pune is 100 years old
+gt: 100 years old might Pune
+rt:Pune is 100 years old
+
+64.त्याचे वय २० वर्षे अाहे
+His age is 20 years  
+gt: His 20 years of age might
+rt:his age is 20 years
+
+65.महाराष्ट्रात २ मुख्य शहरे अाहेत
+Maharashtra has 2 chief cities   
+gt: 2 major cities in Maharashtra might
+rt:Maharashtra has 2 chief cities
+
+66.ऑगस्टीनियन्स १५०० वर्षांपूर्वी गोव्यात आले
+Augustinians came 1500 years back in Goa 
+gt:Ogastiniyansa was 1500 years ago in Goa
+rt:Augustinians came to Goa 1500 years back
+
+67.भगवती मंदिर ५०० वर्षे जुने आहे
+Bhagwati temple is 500 years old 
+gt: Bhagwati temple is 500 years old
+rt:Bhagwati temple is 500 years old 
+
+68.दिल्लीहून चंदीगढ २४९ किमी दूर आहे
+From Delhi Chandigarh is 249 kms far 
+gt: Delhi is 249 km away from Chandigarh
+rt:from Delhi Chandigarh is 249 km far 
+
+69.मसूरी डेहराडूनपासून ३० किमी दूर आहे
+Mussoorie from Dehradun is 30 kms far 
+gt: 30 km away from Mussoorie Dehradun
+rt:Mussoorie from Dehradun is 30 km far 
+
+70.ऊटी समुद्रसपाटीपासून ७३४९ मीटर उंचीवर आहे
+Ooty from sea level is 7349 meters on tall 
+gt: Ooty 7349 meters from sea level on the
+rt:Ooty from sea level is 7349 meter high
+
+71.या मंदिरात ९ ग्रहांच्या मूर्ती आहेत
+This in temple are 9 planets' idol 
+gt: These are the images of the 9 planets
+rt:there are 9 planet's idol in this temple
+
+72.मुंबई दिल्लीहून १३९७ किलोमीटर अंतरावर अाहे
+Mumbai is 1397 kilometers distance from Delhi 
+gt: 1397 kms from Delhi, Mumbai might
+rt:Mumbai is at a distance of 1397 kilometers from Delhi
+
+73.पुणे मुंबईहून ९३ किलोमीटर अंतरावर अाहे
+Pune is 93 kilometers distance from Mumbai 
+gt: 93 kms from Mumbai, Pune, might
+rt:Pune is at a distance of 93 kilometers from Mumbai
+
+74.कन्याकुमारी काश्मीरहून ३९७४ किलोमीटर अंतरावर अाहे
+Kanyakumari is 3974 kilometers distance from Kashmir 
+gt:Kanyakumari to Kashmir 3974 kilometers might
+rt:kanyakumari is at a distance of 93 kilometers from Kashmir
+
+75.नागपूर पर्यटकांसाठी एक मोहक अनुभव अाहे
+Nagpur is one captivating experience for tourist 
+gt: A delightful experience for visitors might Nagpur
+rt:Nagpur is a captivating experience for tourist 
+
+76.हरिद्वार पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Haridvar is one divine experience for tourist 
+gt: A divine experience for visitors might Haridwar
+rt:Haridvar is a divine experience for tourist 
+
+77.ती गुहा १० मीटर रुंद अाहे
+This cave is 10 meters wide 
+gt: They might cave 10 meters wide
+rt:This cave is 10 meter wide 
+
+78.तो डोंगर १००० फूट उंच अाहे
+This mountain is 1000 feet tall 
+gt: The mountain 1000 feet high, might
+rt:That mountain is 1000 feet tall
+
+79.ती भिंत १० फूट उंच अाहे
+This wall is 10 feet tall 
+gt:  That the wall 10 feet tall might
+rt:This wall is 10 feet tall 
+
+80.तो धबधबा १२ मीटर उंच अाहे
+This waterfall is 12 meters tall 
+gt: 12-meter high waterfall that might
+rt:This waterfall is 12 meters tall 
+
+81.तिला फूले आवडतात
+She likes flowers 
+gt: She loves flowers
+rt:She likes flowers
+
+82.ती फळे खाते
+She eats fruits 
+gt: The fruits Account
+rt:She eats fruits
+
+83.मी पुस्तक वाचतो
+I read book  
+gt: I read the book
+rt:I read a book
+
+84.मी प्रवास करते
+I do travel 
+gt: I do travel
+rt:I travel
+
+85.मी अभ्यास करते
+I do study
+gt: I do in practice
+rt:I study
+
+86.मी चेंडू फेकते 
+I throw ball 
+gt: I have to dust
+rt:I throw a ball
+
+87.ती नाच करते
+She does dance
+gt: The dance
+rt:She dances
+
+88.ती शहर फिरते
+She travels city 
+gt: It revolves around the city
+rt:She travels city
+
+89.ती किल्ला चढते
+She climbs fort
+gt: The fort oven
+rt:She climbs fort
+
+90.आदेश जातो
+Adesh goes
+gt: The command is
+rt:Adesh goes
+
+91.चंद्र चमकतो
+Moon shines
+gt: Moon occurs
+rt:Moon shines
+
+92.आदेश खेळतो
+Adesh plays
+gt: play order
+rt:Adesh plays
+
+93.आदेश जिंकला 
+Adesh won
+gt: Who won the order
+rt:Adesh won
+
+94.पैसे हरवले
+Money lost
+gt: lost money
+rt:Money lost
+
+95.सीमा जात आहे
+Seema is going
+gt: Limit is
+rt:Seema is going
+
+96.स्वर्ग सुंदर आहे
+Heaven is beautiful
+gt: Heaven is beautiful
+rt:Heaven is beautiful
+
+97.तो चालतो
+He walks
+gt: He walks
+rt:he walks
+
+98.ती खेळते
+She plays
+gt: The Working
+rt:She plays
+
+99.ते येतात
+They come
+gt: They are
+rt:They come
+
+100.तो हसतो
+He laughs
+gt: He squeezed
+rt:he laughs
+
+101.तो रडतो
+He cries
+gt: The soul
+rt:he cries
+
+102.तो पळत
+He runs
+gt: He swallowed
+rt:he runs
+
+103.ती लिहिते
+She writes
+gt: She writes
+rt:she writes
+
+104.तो वाचतो
+He reads
+gt: It is worth
+rt:he reads
+
+105.तो सांगतो
+He tells
+gt: He says
+rt:he tells
+
+106.तो विचारतो
+He asks
+gt: He asks
+rt:he asks
+
+107.ती सांगते
+She tells
+gt:she tells
+rt:she tells
+
+108.सीमा बटाटे सोलत आहे
+Seema is peeling potatoes
+gt: border is peeled potatoes
+rt:Seema is peeling potatoes
+
+109.सीमा बटाटे सोलते
+Seema peels potatoes
+gt: border potatoes peeled
+rt:Seema peels potatoes
+
+110.ऐश्वर्या आंबा खाते
+Aishwarya eats mango
+gt: Aishwarya vinegar account
+rt:Aishwarya eats mango
+
+111.अपूर्वा भात खात होती
+Apurva was(occured) eating rice 
+gt: Apoorva was eating rice
+rt:Apoorva was eating rice
+
+112.ऐश्वर्या नाच करते
+Aishwarya does dance
+gt: Aishwarya dance
+rt:Aishwarya dances
+
+113.सीमा पर्यटक आहे
+Seema is tourist
+gt:Border tourist
+rt:Seema is a tourist
+
+114.निखील प्रवास करत होता
+Nikhil was doing travel
+gt: Nikhil Travel doing
+rt:NIkhil was trvelling
+
+115.सुवर्णा झोपत आहे
+Suvarna is sleeping
+gt: Suvarna's sleep
+rt:Suvarna is sleeping
+
+116.आई सुंदर दिसत आहे
+Mother is looking beautiful
+gt: I have seen beautiful
+rt:Mother is looking beautiful
+
+117.ती मुलगी आहे
+She is girl
+gt: She is the daughter of
+rt:she is a girl
+
+118.अपूर्वा भात खात आहे
+Apurva is eating rice
+gt: She is the daughter of
+rt:Apurva is eating rice
+
+119.शाळेला सुट्टी आहे
+School has holiday 
+gt: Religion is a holiday
+rt:School has a holiday
+
+120.शाळेस सुट्टी आहे
+School has holiday
+gt: School holiday
+rt:School has a holiday
+
+121.शाळेला सुट्टी होती
+School had holiday
+gt: School holiday was
+rt:School had a holiday
+
+122.मुलीने पुस्तक वाचले
+Girl reads book
+gt: Daughter read the book
+rt:Girl read the book
+
+123.पुस्तके माहिती देतात
+Books give information
+gt: The books offer information
+rt:Books give information
+
+124.पुस्तकात चित्र आहे
+Book has picture
+gt: Picture book
+rt:Book has a picture
+
+125.शाळेत पुस्तके आहे
+School has books
+gt: School books
+rt:School has books
+
+126.आपण सगळे श्वास घेतो
+We all take breath
+gt: We all breathe
+rt:We all breathe
+
+127.सीमाला मुलगा आहे
+Seema has boy
+gt: Limit is the son of
+rt:Seema has a boy
+
+128.आदेश मुलगा आहे
+Adesh is boy
+gt: Order son
+rt:Adesh is a boy
+
+129.खूप मोठे पुस्तक आहे
+Book is very big
+gt: The book is too big
+rt:Book is very big
+
+130.खूप स्वच्छ शाळा होती
+School was(occured) very clean
+gt: Very clean school
+rt:School was very clean
+
+131.पूर्ण शांत घर आहे
+Home is full quiet
+gt: Through the quiet house
+rt:Home is fully quiet
+
+132.पूर्ण घरात शांतता आहे
+Full home is silent
+gt: The house is full of peace
+rt:There is silence in the whole house
+
+133.पूर्ण घरात शांतता होती
+Full home was(occured) silent
+gt: Full house was quiet
+rt:There was silence in the whole house
+
+134.सर्व मुले शांत होती
+All children were quiet
+gt: All the children were quiet
+rt:All children were quiet
+
+135.खूप मोठा किल्ला आहे
+Fort is very big
+gt: The fort is huge
+rt:Fort is very big
+
+136.सर्व फूले सुंदर आहेत
+All flowers are beautiful
+gt: All flowers are beautiful
+rt:All fowers are beautiful 
+
+137.तो शाळेमध्ये आहे
+He is in school
+gt: It is in school
+rt:He is in the school
+
+138.तो टेबलावर आहे
+He is on table
+gt: It is on the table
+rt:He is on the table
+
+139.तो टेबलाखाली आहे
+He is under the table
+gt: It is tebalakhali
+rt:He is under the table
+
+140.तो घरामध्ये आहे
+He is in home
+gt: It is in the house
+rt:He is in the home
+
+141.तो घरावर आहे
+He is on home
+gt: It is on the house
+rt:She is on the house
+
+142.तो आदेशचा मित्र आहे
+He is Adesh's friend
+gt: He is a friend of command
+rt:He is Adesh's friend
+
+143.तो शाळेमागे राहतो
+He lives behind the school
+gt: It remains salemage
+rt:He lives behind the school
+
+144.घरासमोर बाग आहे
+In front of the home is garden
+gt: Front of the house is the garden
+rt:Garden is in front of the house
+
+145.ती शाळेतून बाहेर गेली
+She went outside from school
+gt: She went out of school
+rt:She went outside of the school
+
+146.तो शाळेतून बाहेर गेला
+He went outside from school
+gt: He went out of school
+rt:He went outside from the school
+
+147.तो भात खातो
+He eats rice
+gt: He eats rice
+rt:He eats rice
+
+148.तू हसतोस
+You laugh
+gt: You shock
+rt:You laugh
+
+149.रांची पर्यटन स्थळ आहे
+Ranchi is tourism place 
+gt: Ranchi tourist spot
+rt:Ranchi is a tourism place
+
+150.सातपुरींच्या दर्शनाने मोक्ष मिळतो
+Satpuri's darshan gives salvation
+gt: Satapurim brings salvation lasted
+rt:Satpuri's darshan gives salvation
+
+151.सकाळी आम्ही जवळच्या मंदिरात गेलो
+We went to a nearby in temple in the morning 
+gt: In the morning we went to the nearest house
+rt:we went to a nearby in temple in the morning 
+
+152.काश्मीर पृथ्वीवरचा स्वर्गा आहे
+Kashmir is earth's heaven
+gt: Kashmir is heaven on earth
+rt:kashmir is earth's heaven
+
+153.ती खूप सुंदर दिसत आहे
+She is looking very beautiful
+gt: She looks very beautiful
+rt:she is looking very beautiful
+
+154.जगात सात आश्चर्या आहेत
+Seven attractions are in world 
+gt: There are seven wonders of the world
+rt:There are seven wonders in the world
+
+155.पर्यटन चांगला छंदा आहे
+Tourism is a nice hobby 
+gt: Tourism is a good Justify
+rt:tourism is a nice hobby
+
+156.कन्याकुमारीला तीन समुद्रा एकत्र येतात
+At kanniyakumari three seas come together
+gt: Kanyakumari three come together in the sea
+rt:at kanniyakumari three seas come together
+
+157.दिल्ली भारताची राजधानी आहे
+Delhi is India's capital
+gt: Delhi is the capital of India
+rt:Delhi is India's capital
+
+158.जंगलात सिंहा आहेत
+In forest are lions  
+gt: There are a lion in the forest
+rt:Lions are there in the forest
+
+159.लव्हासाला खूप हिरवळ आहे
+Lavasa is very green
+gt: Lavhasala is very difficult
+rt:Lavasa is very green
+
+160.हॉवरह पूल कोलकतामध्ये आहे
+Howrah is bridge in Kolkata 
+gt: Hovaraha pool in Kolkata
+rt:Howrah is bridge in Kolkata 
+
+161.सर्वाचे कुतूहल स्वाभाविक होते
+All's curiosity was(occured) obvious
+gt: Luck natural curiosity
+rt:everyone's curiosity was obvious
+
+162.दृष्य सुंदर होते
+View was(occured) beautiful 
+gt: Views were beautiful
+rt:View was beautiful
+
+163.रोतांगला बर्फाचा ङोंगर आहे
+At Rotang is snow's mountain 
+gt: Rotangala ICE is nongara
+rt:There is snow mountain at Rotang
+
+164.काश्मीर सुंदर आहे
+Kashmir is beautiful
+gt: Kashmir is beautiful
+rt:Kashmir is beautiful
+
+165.महाबळेश्वर थंड आहे
+Mahabaleshwar is cold
+gt: Mahabaleshwar is cool
+rt:Mahableshwar is cold
+
+166.राजस्थानला लोक सुट्टीत जातात
+To Rajasthan people go in holiday
+gt: Rajasthan they are vacations
+rt:People go to Rajasthan in holidays
+
+167.राजस्थानला वाळवंटा आहे 
+To Rajasthan is desert
+gt: Rajasthan is a desert
+rt:there is desert at Rajasthan
+
+168.काशी पवित्रा आहे
+Kashi is holy 
+gt: Kashi is holy
+rt:Kashi is holy
+
+169.काशी पवित्रा स्थान आहे
+Kashi is holy place 
+gt: Kashi is a holy place
+rt:Kashi is a holy place
+
+170.कोहलेन लांब समुद्रकिनारा आहे
+Kohalane is long coastline 
+gt: Kohalena long beach
+rt:Kohalane is a long coastline 
+
+171.याला मानस्तंभ म्हटले जाते 		
+This is called Manstambh 
+gt: This is called manastambha
+rt:This is called Manstambh 
+
+172.मला हे आढळले
+I found this
+gt: I found it
+rt:I found this
+
+173.केरळमध्ये मल्याळम भाषा बोलली जाते 	
+Malayalam language is spoken in Kerala
+gt: Malayalam is the language spoken in Kerala
+rt:Malayalam language is spoken in Kerala
+
+174.येथे एक तलाव आहे
+Here is one pond
+gt: Here is a pond
+rt:here is a pond
+
+175.कोकण महाराष्टृमध्ये आहे
+Kokan is in Maharashtra 
+gt: Konkan is maharastr in
+rt:Kokan is in Maharashtra 
+
+176.ती काश्मीरला गेली
+She went to kashmir
+gt: She Kashmir
+rt:She went to kashmir
+
+177.नीलकंतेश्वराचे मंदिर सुंदर आहे
+Neelkantheshwar temple is beautiful
+gt: Nilakantesvarace temple is beautiful
+rt:Neelkantheshwar temple is beautiful
+
+178.आज खूप ऊन आहे
+Today is very hot 
+gt: Today is a very warm
+rt:Today is very sunny
+
+179.धबधबा जोरात वाहतो
+Waterfall flows in force
+gt: Loud waterfall flows
+rt:waterfall flows with force
+
+180.सूर्योदय सुंदर दिसत आहे
+Sunrise is looking beautiful
+gt: Looks like a beautiful sunrise
+rt:The sunrise is looking beautiful
+
+181.राजस्थानी पोशाख सुंदर दिसतो
+Rajasthan's clothes look beautiful 
+gt: Rajasthani costume looks beautiful
+rt:Rajasthan's clothes look beautiful 
+
+182.हैदराबादला बर्फाचे उद्यान आहे
+In Hyderabad is snow's park 
+gt: Hyderabad is the Ice Park
+rt:There is a snow park in Hyderabad
+
+183.कन्याकुमारीला सुंदर मंदिर आहे
+At kanniyakumri is beautiful temple
+gt: Kanyakumari temple is beautiful
+rt:at kanniyakumri tehre is a beautiful temple
+
+184.केसरीची सोय उत्तम होती
+Kesari's arrangement was(occured) nice 
+gt: Kesari was the best facility
+rt:Kesri's arrangment was nice
+
+185.तिथे खूप शांत वाटते
+There feel very quiet
+gt: There are a lot of cool
+rt:There one feels very quiet
+
+186.दिल्लीला खरेदी केली
+In Delhi did shopping
+gt: Purchased in Delhi
+rt:Shopping was done in Delhi
+
+187.नवीन वाचनालय़ सुरू झाले
+New library was(occured) started 
+gt: Start a new vacanalaya
+rt:New library was started
+
+188.धर्मशाळा चांगली आहे
+Caravansary is nice 
+gt: Dharamsala is good
+rt:Caravansary is nice 
+
+189.आम्ही सकाळी पर्वत चढायलो
+In the morning we climbed mountain 
+gt: We morning mountain cadhayalo
+rt:In the morning we climbed the mountain 
+
+190.सूर्य तेजस्वी दिसत आहे
+Sun is looking bright
+gt: The sun is bright look
+rt:sun is looking bright
+
+191.मेमध्ये आम्ही हिमालयात गेलो
+In May we went to Himalaya 
+gt: May we went to Himalayas
+rt:In May we went to the Himalaya 
+
+192.गुजरातला मोठे वाळवंट आहे
+To Gujarat is big desert 
+gt: Gujarat is the largest desert
+rt:There is a big desert at gujrat
+
+193.कशीला खूप भक्ता जमतात
+In Kashi very devotees gather 
+gt: Many devotees come kasila
+rt:In Kashi many devotees gather 
+
+194.तिथले वेफर्स खूप खपतात
+Their wafers are sold very 
+gt: Village accounts for a lot of wafers
+rt:Their wafers are sold in plenty 
+
+195.केरळची इडली चविष्ट असते
+Kerala's idli is tasty
+gt: Kerala is a tasty batter
+rt:kerela's idli is tasty
+
+196.खूप मोठा किल्ला आहे
+Fort is very big
+gt: The fort is huge
+rt:The fort is very big
+
+197.खूप मोठा पुतळा आहे
+Statue is very big
+gt: The huge statue
+rt:The statue is very big
+
+198.खूप मोठा रस्ता आहे
+Road is very big
+gt: The road is too big
+rt:The road is very big
+
+199.खूप मोठे जंगल आहे
+Forest is very big
+gt: Has a very large forest
+rt:The forest is very big
+
+200.खूप मोठा पर्वत आहे
+Mountain is very big
+gt: The huge mountains
+rt:The mountain is very big
+
+201.खूप मोठा प्रवास आहे
+Travel is very big
+gt: Travel is huge
+rt:The travel is very big
+
+202.खूप मोठा महासागर आहे
+Ocean in very big
+gt: Ocean is huge
+rt:The ocean is very big
+
+203.खूप मोठा देश आहे
+Country is very big
+gt: The country is too big
+rt:The country is too big
+
+204.खूप मोठे बेट होते
+Island was(occured) very big
+gt: Was a great island
+rt:The island is very big
+
+205.खूप मोठा बुंधा आहे
+Tree trunk is very big
+gt: Is huge bundha
+rt:The trunk is very big
+
+206.खूप मोठा मासा आहे
+Fish is very big
+gt: The huge fish
+rt:The fish is very big
+
+207.खूप मोठी ईमारत आहे
+Building is very big
+gt: The building is too big
+rt:The building is very big
+
+208.खूप मोठा पूल आहे
+Bridge is very big
+gt: The pool is huge
+rt:The bridge is very big
+
+209.खूप मोठी बाग आहे
+Garden is very big
+gt: The garden is too big
+rt:The garden is very big
+
+210.खूप मोठे बंदर आहे
+Port is very big
+gt: Has a very large port
+rt:The port is very big
+
+211.खूप मोठी कार आहे
+Car is very big
+gt: The car is great
+rt:The car is very big
+
+212.खूप मोठा विमान आहे
+Plane is very big
+gt: The huge plane
+rt:The plane is very big
+
+213.वॉशिंग्टन अमेरिकेची राजधानी आहे
+Washington is America's capital 
+gt: Washington is the capital of the US
+rt:Washington is the capital of the US
+
+214.गांधीनगर गुजरातची राजधानी आहे
+Gandhinagar is Gujarath's capital 
+gt: The capital is Gandhinagar, Gujarat
+rt:Gandhinagar is Gujrath's capital 
+
+215.चंदीगड पन्जाबची राजधानी आहे
+Chandigarh is Punjab's capital 
+gt: Chandigarh is the capital panjabaci
+rt:Chandigarh is Punjab's capital 
+
+216.जम्मू काश्मीरची राजधानी आहे
+Jammu is Kashmir's capital 
+gt: It is the capital of Jammu and Kashmir
+rt:Jammu is Kashmir's capital 
+
+217.न्यूझीलँडला खूप हिरवळ आहे
+New Zealand is very green 
+gt: New Zealand is a very difficult
+rt:New Zealand is very green
+
+218.काश्मीरला खूप हिरवळ आहे
+To Kashmir is very green
+gt: Kashmir is very difficult
+rt:Kashmir is very green
+
+219.श्रीलंकेला खूप हिरवळ आहे
+Sri Lanka is very green 
+gt: Sri Lanka is very difficult
+rt:Sri Lanka is very green 
+
+220.जंगलात माकडे आहेत
+In forest is monkeys 
+gt: There are monkeys in the forest
+rt:There are monkeys in the forest
+
+221.जंगलात वाघ आहेत
+In forest are tigers 
+gt: There are tigers in the forest
+rt:There are tigers in the forest
+
+222.जंगलात हत्ती आहेत
+In forest are elephants
+gt: Forest elephants are
+rt:There are elephants in the forest
+
+223.जंगलात पक्षी आहेत
+In forest are birds 
+gt: There are forest birds
+rt:There are birds in the forest
+
+224.जंगलात रानडुक्कर आहेत
+In forest are wild boars 
+gt: Forests are wild boars
+rt:There are wild boars in the forest
+
+225.जंगलात हरिण आहेत
+In forest is deer
+gt: There are deer in the forest
+rt:There are deer in the forest
+
+226.पुण्याला पेशवाईची परंपरा आहे
+To Pune is Peshwai's heritage 
+gt: Pune is the Peshwa tradition
+rt:Pune has the Peshwai heritage
+
+227.केसरी मुलींसाठी सहल नेते
+Kesari for girl take trip 
+gt: Kayseri trip leader for children
+rt:Kesri takes trips for girls
+
+228.भारतातून थेट विमान आहे
+From India is direct plane
+gt: India is Direct
+rt:from India is direct plane
+
+229.ते शहर आधुनिक आहे
+That city is modern  
+gt: It is a modern city
+rt:That city is modern
+
+230.धर्मशाळा आधुनिक आहेत
+Caravansary are modern 
+gt: Dharamsala are modern
+rt:Hotels is modern
+
+231.लडाखचे दुसरे प्रमुख नगर कारगिल आहे
+Second major town of Ladakh is Kargil 
+gt: Ladakh is the second major town of Kargil
+rt:second major city of Ladakh is Kargil
+
+232.पृथ्वीचा दुसरा प्रमुख खंड आफ्रीका आहे
+Earth's second major continent is Africa
+gt: The second major section of the earth's African
+rt:earth's second major continent is Africa
+
+233.प्रत्येक ठिकाणी वाहने उपलब्ध आहेत
+Vehicles are available everywhere  
+gt: Vehicles are available everywhere
+rt:vehicles are available everywhere
+
+234.रोझ गार्डन ३० एकरात पसरलेले आहे
+Rose garden is spread over 30 acre 
+gt: Rose Garden is spread over 30 acres
+rt:rose garden is spread over 30 acre 
+
+235.टेरेस गार्डन १० एकरात पसरलेले आहे
+Terrace garden is spread over 10 acre 
+gt: Terrace Garden is spread over 10 acres
+rt:Terrace garden is spread over 10 acre 
+
+236.राजस्थानमध्ये ३२ जिल्हे आहेत
+32 disricts is in Rajasthan 
+GT:There are 32 districts in Rajasthan
+rt:There are 32 districts in Rajasthan
+
+237.डॉल संग्रहालय सेक्टर २३ मध्ये आहे
+Doll museum is in sector 23 
+gt: Doll Museum in Sector 23
+rt:doll museum is in sector 23 
+
+238.मुंबई एक महत्वपूर्ण शहर आहे
+Mumbai is one important city
+gt: Mumbai is an important city
+rt:Mumbai is an important city
+
+239.अमृतसर एक ऐतिहासिक शहर आहे
+Amritsar is one historic city 
+gt: Amritsar is a historical city
+rt:Amritsar is a historical city
+
+240.माझी दुकान सेक्टर २३ मध्ये आहे
+My shop is in sector 23 
+gt: My shop is in Sector 23
+rt:my shop is in sector 23
+
+241. ती शाळा सेक्टर २३ मध्ये आहे
+That school is in sector 23 
+gt: That is, in the school sector 23
+rt:That school is in sector 23
+
+242.जालियनवाला बाग एक राष्ट्रीय तीर्थस्थळ आहे
+Jalianwala garden is one national shrine 
+gt: Bagh is a national pilgrimage
+rt:Jalianwala garden is a national shrine 
+
+243.ताजमहालाचे मुख्य प्रवेशद्वार दक्षिणी दरवाजा आहे
+Taj Mahal's chief entrance is south door
+gt: The main entrance door is tajamahalace Southern
+rt:Taj Mahal's chief entrance is southern door
+
+244.देश आधुनिक आहे
+Country is modern 
+gt: The country is modern
+rt:The country is modern 
+
+245.संगीत आधुनिक आहे
+Music is modern 
+gt: The music is modern
+rt:The music is modern 
+
+246.लेणी प्राचीन आहेत
+Caves are ancient 
+gt: There are ancient caves
+rt:The caves are ancient
+
+247.महाल जुना आहे
+Palace is old 
+gt: Mahal is used
+rt:Mahal is old
+
+248.वाडा जुना आहे
+Castle is old 
+gt: The castle is used
+rt:The castle is old
+
+249.गुहा जुनी आहे
+Cave is old
+gt: Is an old cave
+rt:The cave is old
+
+250.किल्ला जुना आहे
+Fort is old
+gt: The fort is used
+rt:The fort is old
+
+251.अमेरिकेतून थेट विमान आहे
+From America is direct plane 
+gt: Direct US is
+rt:There is a direct plane from America
+
+252.ऑकलॅंडवरुन थेट विमान आहे
+From Auckland is direct plane 
+gt: Okalendavaruna is Direct
+rt:There is a direct plane from Auckland
+
+253.विमान मोठे होते
+Plane was(occured) big
+gt: Large aircraft
+rt:The plane was big
+
+254.विमान लहान होते
+Plane was(occured) small
+gt: Aircraft were small
+rt:The plane was small
+
+255.कार जोरात होती
+Car was(occured) in force
+gt: The car was loud
+rt:The car was in force
+
+256.लालकिल्ला अगर्‍यातील दुसरी महत्त्वपूर्ण इमारत आहे
+Red Fort in Agra is second important building
+gt:Lalakilla agaryatila is another important building
+rt:Red Fort is second most important building in Agra
+
+257.पंचमहाल पाच मजली इमारत आहे
+Panch Mahal is five storey building 
+gt: Panchmahal five-storey building
+rt:Panch Mahal is five storey building 
+
+258.सारसबाग एक बगीचा आहे
+One garden is Sarasbaug 
+gt: My dress is a garden
+rt:The garden is Sarasbaug 
+
+259.जयपुर राजस्थानची राजधानी आहे
+Jaipur is Rajasthan's capital 
+gt: Jaipur is the capital of Rajasthan
+rt:Jaipur is Rajasthan's capital 
+
+260.कुतुबमीनारच्या उंची ७२ मीटर आहे
+Qutab Minar's tall(height) is 72 meters
+gt: Kutubaminara height is 72 meters
+rt:Qutab Minar's height is 72 meter
+
+261.मी तिकडे पोचलो
+I reached there 
+gt: I went there
+rt:I reached there 
+
+262.मी तयार आहे
+I am ready 
+gt: I am ready
+rt:I am ready 
+
+263.मी फ्रेंच आहे
+I am French
+gt: I am French
+rt:I am French
+
+264.तो एकटा होता
+He was(occured) alone 
+gt: He was alone,
+rt:he was alone 
+
+265.तो धाडसी होता
+He was(occured) brave
+gt: He was bold
+rt:he was brave
+
+266.मला चीन आवडतो
+I like China
+gt: I love China
+rt:I like China
+
+267.ते एक फळ आहे
+That is one fruit 
+gt: It is the fruit of a
+rt:That is a fruit
+
+268.ते तिथे ठेव
+Put it there 
+gt: Put it there
+rt:Put it there
+
+269.मी पर्यटक आहे
+I am tourist
+gt: I am a tourist
+rt:I am a tourist
+
+270.मी अमेरिकेत आहे
+I am in America
+gt: I am in the United States
+rt:I am in America
+
+271.मला टुलिप आवडतात
+I like Tulip
+gt: I like Tulip
+rt:I like Tulip
+
+272.हे औषध सर्दीसाठी चांगलं आहे
+This medicine is nice for cold 
+gt: This is good medicine for colds
+rt:this medicine is good for cold 
+
+273.तो बदलला आहे
+He has changed
+gt: It has changed
+rt:he has changed
+
+274.तो थकलेला वाटतोय
+He feels tired
+gt: It all in to continue
+rt:He seems tired
+
+275.ते वेगळं आहे
+It is different 
+gt: It is different
+rt:It is different
+
+276.ही माझी गाडी आहे
+This is my vehicle 
+gt: This is my car
+rt:this is my vehicle 
+
+277.रामरेखा पर्वतीय स्थळ आहे
+Ramrekha is a hilly place 
+gt: Ramarekha Mountain site is
+rt:Ramrekha is a hilly place 
+
+278.महाबोधी मंदिराची उंची १७० फुट आहे
+Mahabodhi temple's tall(height) is 170 feet
+gt: Mahabodhi temple is 170 feet in height
+rt:Mahabodhi temple's height is 170 feet
+
+279.तारापीठ एक शक्तिपीठ आहे
+One shaktipeeth is Tarapeeth 
+gt: Tarapitha is a temple
+rt:One of the shaktipeeth is Tarapeeth 
+
+280.रामपुर हाट झारखंडमध्ये येते
+Rampur market comes in Jharkhand 
+gt: Rampur hat comes in Jharkhand
+rt:Rampur market is in Jharkhand 
+
+281.तारापीठ बंगालमध्ये आहे
+Tarapeeth is in Bengal
+gt: Tarapitha is Bengal
+rt:Tarapeeth is in Bengal
+
+282.तळ्याचा आकार आगळावेगळ आहे
+Pond's shape is weird 
+gt: The size of the lake is agalavegala
+rt:The pond's shape is weird 
+
+283.महालाच्या मागे तलाव आहे
+Behind palace is pond
+gt: Mansion of the pond behind
+rt:behind the palace is a pond
+
+284.नर्मदापरीक्रमा अवघड आहे
+Narmada parikrama is difficult 
+gt: Narmadaparikrama is difficult
+rt:Narmada parikrama is difficult 
+
+285.ओंकारेश्‍वरचे प्राचीन नाव मांधाता आहे
+Omkareshwar's ancient name is Mandhata
+gt: Onkaresvarace is the ancient name mandhata
+rt:Omkareshwar's ancient name is Mandhata
+
+286.महेश्‍वर मंदिरांसाठी प्रसिद्ध आहे
+Maheshwar is popular for temples 
+gt: Maheshwar is famous for temples
+rt:Maheshwar is popular for temples
+
+287.महेश्‍वरचा किल्ला प्राचीन आहे
+Maheshwar's fort is ancient
+gt: Maheshwari is an ancient fort
+rt:Maheshwar's fort is ancient
+
+288.महेश्‍वरच्या साड्या देशात प्रसिद्ध आहेत
+Maheshwar's sarees are popular in country  sarees are popular in country 
+gt: Maheshwari sarees are famous in the country
+rt:महेश्‍वरच्या sarees are popular in the country 
+
+289.जबलपूर समुद्रसपाटीपासून १३०६ फूट उंचीवर आहे
+Jabalpur from sea level is 1306 feet on tall(height)
+gt: Jabalpur is the height of 1306 feet from sea
+rt:Jabalpur from sea level is 1306 feet on height
+
+290.मदनमहाल पर्वतावर आहे
+Madan Mahal is on mountain
+gt: Madanamahala mountain
+rt:Madan Mahal is on a mountain
+
+291.बाजनामठमध्ये एक लहान द्वार आहे
+One small door is in Bajnamath 
+gt: Bajanamatha is a small door
+rt:There is a small door in Bajnamath
+
+292.बाजनामठ खूप प्राचीन आहे
+Bajnamath is very ancient 
+gt: Bajanamatha is a very ancient
+rt:Bajnamath is very ancient 
+
+293.धुंआधार एक आकर्षक धबधबा आहे
+Dhuadhar is one attractive waterfall
+gt: The phenomenal is an attractive waterfall
+rt:Dhuadhar is a attractive waterfall
+
+294.कान्हा राष्‍ट्रीय उद्यान आहे
+Kanha is national park 
+gt: Kanha National Park
+rt:Kanha is a national park 
+
+295.पावसाळ्यात टेकड्यांवरुन झरे पाझरतात
+In rainy season stream percolate from hills
+gt: Pajharatata hills and streams in the rainy season
+rt:in rainy season streams percolate from hills
+
+296.तिला ताजमहाल आवडतो
+She likes Taj Mahal 
+gt: She loved the Taj Mahal
+rt:she likes ताजमहाल 
+
+297.तिला किल्ला आवडतो
+She likes fort
+gt: Love her castle
+rt:she likes fort
+
+298.तिला समुद्रकिनारा आवडतो
+She likes coastline
+gt: She likes the beach
+rt:she likes coastline/seashore
+
+299.तिला डोंगर आवडतात
+She likes mountain 
+gt: She loves the mountains
+rt:she likes mountain 
+
+300.तिला पक्षी आवडतात
+She likes birds 
+gt: She loves birds
+rt:she likes birds
+
+301.दरी सुंदर दिसत आहे
+Valley is looking beautiful
+gt: The valley is beautiful to look
+rt:The valley is looking beautiful
+
+302.चंद्र सुंदर दिसत आहे
+Moon is looking beautiful
+gt: Moon is look beautiful
+rt:The moon is looking beautiful
+
+303.नदी सुंदर दिसत आहे
+River is looking beautiful
+gt: The river is beautiful to look
+rt:The moon is looking beautiful
+
+304.पूल सुंदर दिसत आहे
+Bridge is looking beautiful
+gt: The pool looks beautiful
+rt:The bridge is looking beautiful
+
+305.बालीका सुंदर दिसत आहे
+Baby girl is looking beautiful
+gt: Balika looks beautiful
+rt:The baby girl is looking beautiful
+
+306.पिल्लू सुंदर दिसत आहे
+Young one is looking beautiful
+gt: Pigeon looks beautiful
+rt:The young one is looking beautiful
+
+307.वन सुंदर दिसत आहे
+Forest is looking beauriful
+gt: One look beautiful
+rt:The forest is looking beauriful
+
+308.परीराणी सुंदर दिसत आहे
+Fairy is looking beautiful
+gt: Parirani looks beautiful
+rt:The fairy is looking beautiful
+
+309.राजगड सुंदर दिसत आहे
+Rajgad is looking beautiful
+gt: Rajgad looks beautiful
+rt:Rajgad is looking beautiful
+
+310.किनारा सुंदर दिसत आहे
+Shore is looking beautiful
+gt: Bank looks beautiful
+rt:The shore is looking beautiful
+
+311.रामेश्वरमला सुंदर मंदिर आहे 
+At Rameshwaram is beautiful temple
+gt: Ramesvaramala temple is beautiful
+rt:at Rameshwaram is a beautiful temple
+
+312.केरळला सुंदर मंदिर आहे
+At kerela is beautiful temple
+gt: Kerala is a beautiful temple
+rt:at kerela is a beautiful temple
+
+313.पुण्याची बाकरवडी चविष्ट असते 
+Pune's बाकरवडी is tasty
+gt: Pune bakaravadi is tasty
+rt:Pune's bakarwadi is tasty
+
+314.गोव्याचे काजु चविष्ट असते
+Goa's काजु is tasty 
+gt: Goa is a tasty curry leaves
+rt:Goa's काजु is tasty
+
+315.आसामचा चहा चविष्ट असते 
+Assam's tea is tasty
+gt: Assam tea is tasty
+rt:Assam's tea is tasty
+
+316.बालाजीचं मंदिर सुंदर आहे
+Balaji's temple is beautiful 
+gt: Balajicam temple is beautiful
+rt:Balaji's temple is beautiful 
+
+317.मंदिर मोठे होते
+Temple was(occured) big
+gt: The temple was great
+rt:The temple was big
+
+318.दरी मोठी होती
+Valley was(occured) big
+gt: The valley was big
+rt:The valley was big
+
+319.डोंगर मोठा होता
+Mountain was(occured) big
+gt: Mountains was great
+rt:The mountain was big
+
+320.चंदनवाडी पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Chandanwadi is one divine experience for tourist 
+gt: Chandanwadi a divine experience for visitors might
+rt:Chandanwadi is a divine experience for tourist 
+
+321.काशी पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Kashi is one divine experience for tourist 
+gt: Kashi is a divine experience for visitors might
+rt:Kashi is a divine experience for tourist 
+
+322.गोल्डनटेंपल पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Golden temple is one divine experience for tourist 
+gt: Goldanatempala a divine experience for visitors might
+rt:Golden temple is a divine experience for tourist 
+
+323.वाराणसी पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Varanasi is one divine experience for tourist 
+gt: Varanasi is a spiritual experience for visitors might
+rt:Varanasi is a divine experience for tourist 
+
+324.कोलंबस पर्यटकांसाठी एक भितीदायक अनुभव अाहे
+Columbus is one scary experience for tourist 
+gt: Columbus is a scary experience for visitors might
+rt:Columbus is a scary experience for tourist 
+
+325.दाललेक पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Dal lake is one भितीदायक experience for tourist 
+gt: Dalaleka a divine experience for visitors might
+rt:Dalaleka a divine experience for tourist
+
+326.न्यूझीलँड पर्यटकांसाठी एक दिव्य अनुभव अाहे
+New Zealand is one divine experience for tourist 
+gt: New Zealand is a divine experience for visitors might
+rt:New Zealand is a divine experience for tourist 
+
+327.वणीचीदेवी पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Vani's goddess is one divine experience for tourist 
+gt: Vanicidevi a divine experience for visitors might
+rt:Vani's goddess is a divine experience for tourist 
+
+328.श्रीनगर पर्यटकांसाठी एक दिव्य अनुभव अाहे
+Srinagar is one divine experience for tourist 
+gt: Srinagar visitors might experience a divine
+rt:Srinagar is a divine experience for tourist 
+
+329.जवळच नर्मदा कुंड आहे
+Narmada basin is nearby 
+gt: Nearby is the Narmada basin
+rt:Narmada lake is nearby
+
+330.सोनभद्राचा उगम एका लघु कुंडातून झाला
+Sonbhadra rose from one  small lake 
+gt: Sonabhadraca origin was a small kundatuna
+rt:Sonbhadra rose from a small lake 
+
+331.लघु कुंडाच्या जवळच सोन्याची प्रतिमा आहे
+Gold's idol is nearby to the small basin 
+gt: Image sonaci near the small swivel
+rt:There is a golden idol near the small lake
+
+332.कबीरचबूतरा पवित्र ठिकाण आहे
+Kabir chabutara is holy place 
+gt: Kabir platform is the property of the Holy
+rt:Kabir chabutara is a holy place 
+
+333.ज्वालेश्‍वर महादेव मंदिरात शिवलिंग आहे
+In Jvyaleshwar Mahadev temple is Shivling 
+gt: Jvales Mahadev temple is broken
+rt:There is a Shivling in Jvyaleshwar Mahadev temple
+
+334.हे महायंत्र बनारसमध्ये आहे
+This Mahayantra is in Banaras 
+gt: Banaras is in mahayantra
+rt:this Mahayantra is in Banaras 
+
+335.शिवपूरीमध्ये सुंदर सरोवर आहे
+Beautiful lake is in Shivpuri 
+gt: Sivapuri is a beautiful lake
+rt:There is a beautiful lake in Shivpuri
+
+336.चीनमध्ये सुंदर सरोवर आहे
+Beautiful lake is in China 
+gt: China is a beautiful lake
+rt:There is a beautiful lake in China 
+
+337.श्रीनगरमध्ये सुंदर सरोवर आहे
+Beautiful lake is in Shrinagar 
+gt: It is a beautiful lake in Srinagar
+rt:There is a beautiful lake in Shrinagar 
+
+338.नैनीतालमध्ये सुंदर सरोवर आहे
+Beautiful lake is in Nainital 
+gt: Nainital is a beautiful lake
+rt:There is a beautiful lake in Nainital
+
+339.मणीपूरमध्ये सुंदर सरोवर आहे
+Beautiful lake is in Manipur 
+gt: Manipur is a beautiful lake
+rt:There is a beautiful lake in Manipur
+
+340.तेथे इंग्लीश भाषा बोलतात
+There English language is spoken
+gt: There speak English language
+rt:English language is spoken there
+
+341.तेथे मराठी भाषा बोलतात
+There Marathi language is spoken 
+gt: There speak Marathi language
+rt:Marathi language is spoken there
+
+342.तेथे जरमन भाषा बोलतात
+There German language is spoken 
+gt: Tethe Boltat German language
+rt:German language is spoken there
+
+343.तेथे माऊरी भाषा बोलतात
+There माऊरी language is spoken 
+gt: There speak the language mauri
+rt:माऊरी language is spoken there
+
+344.तेथे हिंदी भाषा बोलतात
+There Hindi language is spoken 
+gt: There speak Hindi language
+rt:Hindi language is spoken there
+
+345.तेथे रशीयन भाषा बोलतात
+There Russian language is spoken 
+gt: There rasiyana speak the language
+rt:Russian language is spoken there
+
+346.तेथे पंजाबी भाषा बोलतात
+There Punjabi language is spoken
+gt: There speak Punjabi language
+rt:Punjabi language is spoken there
+
+347.तेथे तेलगू भाषा बोलतात
+There Telgu language is spoken 
+gt: There Telugu language
+rt:Telgu language is spoken there
+
+348.तेथील सोने उत्तम असते
+Gold is nice there 
+gt: Gold is the best
+rt:gold is nice there 
+
+349.ते व्यापारी बंदर आहे
+That is a business port 
+gt: It is the commercial port
+rt:that is a business port 
+
+350.बागेत खूप झाडे आहेत
+Many trees are in garden
+gt: There are a lot of trees in the garden
+rt:many trees are in the garden
+
+351.तो खूप गरीब देश आहे
+That is a very poor country 
+gt: It is a very poor country
+rt:that is a very poor country 
+
+352.तो खूप श्रीमंत देश आहे
+That is a very rich country 
+gt: It is a very rich country
+rt:that is a very rich country 
+
+353.त्या देशात खूप स्वच्छता आहे
+That country is very clean 
+gt: The country is very clean
+rt:that country is very clean 
+
+354.खजुराहोमध्ये खजूराचे अनेक वृक्ष होते
+In Khajuraho were many trees of dates 
+gt: There were many trees in Khajuraho khajurace
+rt:in Khajuraho were many trees of date 
+
+355.लक्ष्मण मंदिर विष्णुला समर्पित आहे
+Laxman temple is dedicated to Vishnu 
+gt: Laxman temple is dedicated to visnula
+rt:Lakshman temple is dedicated to Vishnu 
+
+356.शालिमार गार्डन प्रसिद्ध आहे
+Shalimar is popular garden
+GT:Shalimar Garden is famous
+rt:Shalimar is a popular garden
+
+357.चस्मेशाही गार्डन प्रसिद्ध आहे
+Chashmeshahi is popular garden
+GT:Casmesahi Garden is famous
+rt:Chashmeshahi is a popular garden
+
+358.निशात गार्डन प्रसिद्ध आहे
+Nishat is popular garden 
+GT:Is famous Nishat Garden
+rt:Nishat is a popular garden 
+
+359.अमरनाथ एक शक्तीपीठ आहे
+One Shaktipeeth is Amarnath
+GT:Amarnath is a Shakti
+rt:one of the Shaktipeeth is Amarnath
+
+360.वैष्नोदेवी एक शक्तीपीठ आहे
+One Shaktipeeth is Vaishnodevi 
+GT:Shakti is a vaisnodevi
+rt:a Shaktipeeth is Vaishnodevi 
+
+361.राणकपुर जैन मंदिर आहे
+Ranakpur is Jain temple 
+GT:Ranakapura Jain temple
+rt:Ranakpur is a Jain temple 
+
+362.पवापुरी जैन मंदिर आहे
+Pavapuri is Jain temple
+GT:Pavapuri Jain temple
+rt:Pavapuri is a Jain temple
+
+363.मुक्तगिरी जैन मंदिर आहे
+Muktagiri is Jain temple 
+GT:Muktagiri Jain temple
+rt:Muktagiri is Jain temple 
+
+364.कोणार्क एक सुर्य मंदिर आहे
+Konark is one sun temple 
+GT:Konark Sun Temple is a
+rt:Konark is a sun temple 
+
+365.मार्तंड एक सूर्य मंदिर आहे
+Martanda is one sun temple 
+GT:Sun Temple is a single area
+rt:Martanda is a sun temple 
+
+366.मोधेरा एक सूर्य मंदिर आहे
+Modhera is one sun temple 
+GT:Modhera is a temple of the sun
+rt:Modhera is one sun temple 
+
+367.गोव्याची चर्च प्रसिद्ध आहेत
+Goa's church are popular 
+GT:Goa is famous church
+rt:Goa's churches are popular 
+
+368.कोणार्क ओरिसामध्ये आहे
+Konark is in Orissa
+GT:Konark in Orissa is
+rt:Konark is in Orissa
+
+369.खजुराहो मध्यप्रदेशमध्ये आहे
+Khajuraho is in Madhya Pradesh 
+GT:Khajuraho in Madhya Pradesh
+rt:Khajuraho is in Madhya Pradesh 
+
+370.कुतुबमिनार दिल्लीमध्ये आहे
+Kutub Minar is in Delhi 
+GT:Kutubaminara is in Delhi
+rt:Kutub Minar is in Delhi 
+
+371.अमृतसारला गोल्डनटेंपल आहे
+At Amritsar is Golden temple 
+GT:Amrtasarala is goldanatempala
+rt:The Golden temple is in Amritsar
+
+372.मॉर्गओला गणपतीचे मंदिर आहे
+At Margao is Ganpati's temple 
+GT:Morgaola Ganesh Temple
+rt:at Margao is a Ganpati's temple 
+
+373.पलीला गणपतीचे मंदिर आहे 
+At Pali is Ganpati's temple
+GT:Palila is the temple of Ganesh
+rt:at Pali is a Ganpati's temple
+
+374.रंजनगावला गणपतीचे मंदिर आहे
+At Ranjanvadi is Ganpati's temple 
+GT:Ranjanagavala Ganesh Temple
+rt:at Ranjanvadi is a Ganpati's temple 
+
+375.अंधरामधे बालाजीचे मंदिर आहे
+In Andhra is Balaji's temple 
+GT:Andharamadhe is Balaji Temple
+rt:in Andhra is the Balaji's temple
+
+376.भारताची राष्ट्रीय भाषा हिंदी आहे
+India's national language is Hindi
+GT:Hindi is the national language of India
+rt:India's national language is Hindi
+
+377.पाकिस्तानची राष्ट्रीय भाषा उर्दू आहे
+Pakistan's national language is Urdu 
+GT:Urdu is the national language of Pakistan
+rt:Pakistan's national language is Urdu 
+
+378.थायलँडची राष्ट्रीय भाषा थाई आहे
+Thailand's national language is Thai 
+GT:Thailand is the Thai national language
+rt:Thailand's national language is Thai 
+
+379.संस्कृत जुनी भाषा आहे
+Sanskrit is old language 
+GT:Sanskrit is the oldest language
+rt:Sanskrit is an old language 
+
+380.इंग्लीश सोपी भाषा आहे
+English is simple language 
+GT:English is a simple language
+rt:English is simple language 
+
+381.चीनी अवघड भाषा आहे
+Chinese is difficult language
+GT:Chinese is a difficult language
+rt:Chinese is a difficult language
+
+382.भारताचे चलन रुपया आहे
+India's currency is Rupee
+GT:The currency is the rupee
+rt:India's currency is the Rupee
+
+383.जर्मनीचे चलन युरो आहे
+Germany's currency is Euro 
+GT:German currency is the euro
+rt:Germany's currency is Euro 
+
+384.अमेरिकेचे चलन डॉलर आहे
+America's currency is dollar 
+GT:The currency is the US dollar
+rt:America's currency is the dollar 
+
+385.आसामची राजधानी शिल्लॉंग आहे
+Assam's capital is Shillong
+GT:Shillong is the capital of Assam
+rt:Assam's capital is Shillong
+
+386.मणिपूरची राजधानी इम्फाल आहे
+Manipur's capital is Imphal
+GT:Manipur capital Imphal
+rt:Manipur's capital is Imphal
+
+387.अफगाणिस्तानची राजधानी काबुल आहे
+Afghanistan's capital is Kabul 
+GT:Afghan capital of Kabul
+rt:Afghanistan's capital is Kabul 
+
+388.जर्मनीची राजधानी बेर्लीन आहे
+Germany's capital is Berlin 
+GT:German capital is berlina
+rt:Germany's capital is Berlin 
+
+389.तो अरबी वाचतो
+He reads Arabic
+GT:It is worth Arabic
+rt:he reads Arabic
+
+390.मी खूप थकलोय
+I very tired
+GT:I, too, thakaloya
+rt:I am very tired
+
+391.मी दर वर्षी जातो
+I go every year
+GT:I go every year
+rt:I go every year
+
+392.मला पोहायला आवडतं
+I like swimming 
+GT:I love swimming
+rt:I like swimming 
+
+393.मला तुझी गाडी आवडली
+I like your vehicle
+GT:I like your car
+rt:I like your vehicle
+
+394.मी माझं घड्याळ हरवलं
+I lost my watch 
+GT:I am doing my clock
+rt:I lost my watch 
+
+395.मी तिला परत भेटलो
+I met her again
+GT:I met her back
+rt:I met her again
+
+396.आयुष्य विचित्र असतं
+Life is strange
+GT:Life is strange
+rt:life is strange
+
+397.ती तरुण दिसते
+She looks young
+GT:She looks young
+rt:she looks young
+
+398.उन्हाळा आला आहे
+Summer is come 
+GT:Summer has come
+rt:summer has come 
+
+399.ते एक टेबल आहे
+It is one table
+GT: It is a table
+rt:It is a table
+
+400.ही माझी वाईन आहे
+OS:This is my wine
+GT:This is my Wine
+rt:This is my wine
+
+401.आदेश गोंधळलेला आहे
+Adesh is confused 
+GT:Command is chaotic
+rt:Adesh is confused 
+
+402.तो माझा भाऊ आहे
+He is my brother 
+GT:He is my brother
+rt:He is my brother
+
+403.तो अजूनही येथेच आहे
+He is still here
+GT:He is still here
+rt:He is still here
+
+404.येथे साजनेखली पक्षी अभयारण्य आहेत
+Here is Sajnekhali bird sanctuary 
+gt:Here are sajanekhali Bird Sanctuary
+rt:Sajnekhali bird sanctuary is here
+
+405.सुंदरबन पक्षी प्रेमीजनांसाठी स्वर्गाप्रमाणे आहे
+Sunderban is bird lover's heaven like 
+gt:Sundarban bird lovers to svargapramane
+rt:Sunderban is like heaven for bird lovers.
+
+406. येथे तुम्ही वाघाचे दर्शन घेऊ शकता
+Here you can take tiger's darshan 
+gt:Here you can sight tiger
+rt:Here you can see the tiger
+
+407. येथे तुम्ही देवाचे दर्शन घेऊ शकता
+Here you can take god's darshan 
+gt:Here you can sight of God
+rt:Here you can take god's darshan 
+
+408. येथे तुम्ही निसर्गाचे दर्शन घेऊ शकता
+Here you can take nature's darshan 
+gt:Here you can take a philosophy of nature
+rt:Here you can see the nature
+
+409. सुंदरबनला तुम्ही वाघ पाहू शकता
+At Sunderban you can see tiger 
+gt:You can see the Sunderbans Tiger
+rt:You can see tiger at Sunderban
+
+410. काश्मीरला तुम्ही निसर्ग पाहू शकता
+To Kashmir you can see nature 
+gt:You can see the nature of Kashmir
+rt:You can see the nature at Kashmir
+
+411.ऊटीमध्ये तुम्ही मंदिरे पाहू शकता
+In Ooty you can see temples 
+gt:You can see the temples in Ooty
+rt:You can see the temple at Ooty
+
+412. केरळमध्ये तुम्ही समुद्रकिनारा पाहू शकता
+In Kerala you can see coastline 
+gt:You can see the beach in Kerala
+rt:You can see the seashore at Kerala
+
+413. अाग्र्याला तुम्ही ताजमहाल पाहू शकता
+In Agra you can see Taj Mahal 
+gt:Aagryala you can see the Taj Mahal
+rt:You can see the Taj Mahal at Agra
+
+414. हरिहरेश्वरला तुम्ही मंदिर पाहू शकता
+To Harihareshwar you can see temple 
+gt:Hariharesvarala you can see the temple
+rt:You can see the temple at Harihareshwar
+
+415. केरळमध्ये २२ किनारे अाहेत
+In Kerala has 22 shores 
+gt:22 beaches in Kerala might
+rt:Kerela has 22 shores
+
+416. सुंदरबनला ४०० वाघ अाहेत
+At Sunderban has 400 tiger 
+gt:Sunderban Tiger 400 might
+rt:Sundarban has 400 tigers
+
+417. गीरला ४११ सिंह अाहेत
+To Gir has 411 lion 
+gt:Girala 411 might Singh
+rt:Gir has 411 lions
+
+418. काझीरंगामध्ये १८५५ गेंडे अाहेत
+Kaziranga has 1855 rhinoceroses 
+gt:Kaziranga rhinos in 1855 might
+rt:Kaziranga has 1855 rhinoceroses 
+
+419. काझीरंगामध्ये ५५०० हत्ती अाहेत
+Kaziranga has 5500 elephant 
+gt:Kaziranga Elephant in 5500 might
+rt:Kaziranga has 5500 elephants
+
+420. कान्हामध्ये ८७ वाघ अाहेत
+Kanha has 87 tigers  
+gt:87 in Kanha Tiger might
+rt:Kanha has 87 tigers
+
+421. ताडोबामध्ये ८७ वाघ अाहेत
+Tadoba has 87 tigers 
+gt:87 in Tadoba Tiger might
+rt:Tadoba has 87 tigers
+
+422. ताजमहाल ७३ मीटर उंच अाहे
+Taj Mahal is 73 meters tall 
+gt:Taj Mahal 73 meters tall might
+rt:Taj Mahal is 73 meters tall 
+
+423. कुतुब मीनारची उंची ७३ मीटर अाहे
+Qutub Minar's tall(height) is 73 meters 
+gt:Qutub Minar 73 meters in height might
+rt:Qutub Minar's height is 73 meters
+
+424. अायफेल टॉवरची उंची ३०१ मीटर अाहे
+Eiffel Tower's tall(height) is 301 meters 
+gt:Aayaphela tower height of 301 meters might
+rt:Eiffel Tower's height is 301 meters 
+
+425. एव्हरेस्ट शिखरची उंची ८८४८ मीटर अाहे
+Everest Summit's tall(height) is 8848 meters 
+gt:Everest peak height of 8848 meters might
+rt:Everest Summit's height is 8848 meters 
+
+426. गंगा नदीची लांबी २५२५ किलोमीटर अाहे
+Ganga river's length is 2525 kilometers 
+gt:Length of 2525 km of river Ganga might
+rt:Ganga river's length is 2525 kilometers 
+
+427. नाईल नदीची लांबी ६८५३ किलोमीटर अाहे
+Nile river's length is 6853 kilometers 
+gt:Length of 6853 km of the river might
+rt:Nile river's length is 6853 kilometers 
+
+428. ऍमेझॉन नदीची लांबी ६४३७ किलोमीटर अाहे
+Amazon river's length is 6437 kilometers 
+gt:Length of 6437 kilometers of the Amazon River might
+rt:Amazon river's length is 6437 kilometers
+
+429. कोनार्क मंदिर ८०० वर्षे जुने आहे
+Konark temple is 800 years old 
+gt:Konarka temple is 800 years old
+rt:Konark temple is 800 years old 
+
+430. बालाजीचं मंदिर ७०० वर्षे जुने आहे
+Balaji's temple is 700 years old 
+gt:Balajicam temple is 700 years old
+rt:Balaji's temple is 700 years old 
+
+431. ताजमहाल ३५२ वर्षे जुने आहे
+Taj Mahal is 352 years old 
+gt:Taj Mahal is 352 years old
+rt:Taj Mahal is 352 years old 
+
+432. भारतमध्ये दरवर्षी ७० लाख पर्यटक येतात
+In India in the every year 70 lakh tourist come 
+gt:70 million tourists come every year in India
+rt:In India every year 70 lakh tourist come 
+
+433. फ्रान्समध्ये दरवर्षी ८ कोटी पर्यटक येतात
+In France in the every year 8 crore tourist come
+gt:8 million tourists come every year in France
+rt:In France every year 8 crore tourist come
+
+434. चीनमध्ये दरवर्षी ५ कोटी पर्यटक येतात
+In China in the every year 5 crore tourist come 
+gt:5 million tourists come every year in China
+rt:In China every year 5 crore tourist come 
+
+435. चीन जगातील तिसरा मुख्य देश अाहे
+China is third chief country in the world 
+gt:China is the world's third major country might
+rt:China is the third main country in the world 
+
+436. काशमीरला जून महिन्यात जावे
+Go to Kashmir in month of June 
+gt:Kasamirala go in June
+rt:One should go to Kashmir in the month of June 
+
+437.महाबळेश्वरला जून महिन्यात जावे
+Go to Mahabaleshwar in month of June 
+gt:Mahabaleshwar go in June
+rt:One should go to Mahabaleshwar in the month of June 
+
+438. ऊटीला डिसेंबर महिन्यात जावे
+Go to Ooty in month of December  
+gt:Utila go in December
+rt:One should go to Ooty in the month of June 
+
+439)मला लाल गुलाब आवडतात
+OS:I like red rose
+GT:I love red roses
+rt:I like red roses
+
+440) मला हे पुस्तक आवडतं
+OS:I like this book
+GT:I love this book
+rt:I like this book
+
+441)मला हा खेळ आवडतो
+OS:I like this play
+GT:I love this game
+rt:I like this game
+
+442)मला ही खोली आवडली
+OS:I like this room 
+GT:I like this room
+rt:I like this room
+
+443) येथे भ्रमण करणे सुखद अनुभव आहे
+Here do tour is delightful experience 
+gt:Here is a humbling experience to visit
+rt:Here tour is a delightful experience 
+
+
+444)मी मॉस्कोमध्ये राहतो
+OS:I live in Moscow 
+GT:I live in Moscow
+rt:I live in Moscow
+
+445)मी स्पॅगेटी बनवली
+OS:I made spaghetti
+GT:I made Spaghetti
+rt:I made spaghetti
+
+446 )मी एक डोळा उघडला
+OS:I opened one eye
+GT:I opened one eye
+rt:I opened one eye
+
+447)माझी पेन्सिल लाल आहे
+OS:My pencil is red
+GT:My red pencil
+rt:My pencil is red
+
+448)माझं खेळणं तुटलं आहे
+OS:My toy is broken
+GT:My life is a movie tutalam
+rt:My toy is broken
+
+449)रोम इटलीमध्ये आहे
+OS:Rome is in Italy 
+GT:Rome is in Italy
+rt:Rome is in Italy
+
+450)ती एक विद्यार्थी आहे
+OS:she is one student 
+GT:She is a student
+rt:She is a student
+
+451)तिने माझा हात घेतला
+OS:She took my hand 
+GT:She took my hand
+rt:She took my hand
+
+452)उत्तर ४२ आहे
+OS:Answer is 42
+GT:The answer is 42
+rt:The answer is 42
+
+453)ते आमचं घर आहे
+OS:That is our home 
+GT:It is our home
+rt:That is our home
+
+454)ते खाणं थंड आहे
+OS:That food is cold
+GT:It is cold food
+rt:That food is cold
+
+455)हे पुस्तक नवीन आहे
+OS:This book is new
+GT:It is a new book
+rt:This boom is new
+
+456)हे पुस्तक जुनं आहे
+OS:This book is old  
+GT:This book is controversial
+rt:This book is old
+
+457)उद्या ठीक आहे
+OS:Tomorrow is alright 
+GT:Tomorrow is Alright
+rt:Tomorrow is alright
+
+458)तू खूपच उद्धट आहेस
+OS:You are very rude 
+GT:You are very rude
+rt:You are very rude
+
+459)तुझा कुत्रा इकडे आहे
+OS:Your dog is here 
+GT:Your dog is here
+rt:You dog is here
+
+460)तो अजूनही जिवंत आहे
+OS:He is still alive 
+GT:He is still alive
+rt:He is still alive
+
+461)तो अजुनही तरुण आहे
+OS:He is still young 
+GT:It is still young
+rt:He is still young
+
+462)मी १९ वर्षांचा आहे
+OS:I am 19 year's 
+GT:I am 19 years old
+rt:I am 19 years old
+
+463)मला ही जागा आवडते
+OS:I like this place
+GT:I love this place
+rt:I like this place
+
+464)जॉन माझा भाचा आहे
+OS:John is my nephew 
+GT:John is my nephew
+rt:John is my nephew
+
+465)आयुष्य सुंदर आहे
+OS:Life is beautiful 
+GT:Life is beautiful
+rt:Life is beautiful
+
+466)देव सर्वत्र आहे
+God is everywhere
+GT:God is everywhere
+rt:God is everywhere
+
+467)माझे वडील उंच आहे
+OS:My father is tall
+GT:My father is tall
+rt:My father is tall
+
+468)माझी सुरी धारधार आहे
+OS:My knife is sharp 
+GT:My knife is dharadhara
+rt:my knife is sharp
+
+469)माझे डोळे थकले आहेत
+OS:My eyes are tired 
+GT:My eyes are tired
+rt:My eyes are tired
+
+470)लक्षद्वीपला भरपूर निसर्ग सौंदर्या आहे
+OS:Lakshadweep has a lot of nature beauty 
+GT:Lakshadweep is the beauty of nature
+rt:Lakshadweep has a lot of natural beauty 
+
+471)अंदमाननिकोबार सुंदर पर्यटक स्थळ आहे
+OS:Andaman-Nicobar is beautiful tourist place 
+GT:Andamananikobara beautiful tourist place
+rt:Andaman-Nicobar is a beautiful tourist place 
+
+472)लक्षद्वीपचे स्कूबा डाइविंग प्रसिद्ध आहे
+OS:Lakshadweep's SCUBA diving is popular
+GT:Lakshadweep is popular scuba diving
+rt:Lakshadweep's SCUBA diving is popular
+
+473)पेरियारला अभयारण्य आहे
+OS:In Periyar is sanctuary
+GT:Periyar Wildlife Sanctuary is
+ry:There is a sanctuary at Periyar
+
+474)हवाईसुंदरीने आमचे स्वागत केले
+OS:Airhostess did our welcome 
+GT:Havaisundarine welcomed us
+rt:The airhostess welcomed us
+
+475)विमानाची क्षमता ७०० माणसे आहे
+OS:Plane's capacity is 700 men 
+GT:The aircraft has a capacity of 700 people,
+rt:The plane has a capacity of 700 people
+
+
+476)पेरियारला आम्ही हत्तीवरुन सफर केली
+OS:In Periyar we did journey on elephant
+GT:Periyar we journey hattivaruna
+rt:We traveled on an elephant at Periyar
+
+477)विमानतळ खूप मोठे होते
+OS: Airport was(occured) very big 
+GT:Airports were too big
+rt:Airport was very big 
+
+478)सध्या उत्तरकाशीत एकूण ३२ मंदिरे आहेत
+OS:At present in Uttarkashi are total 32 temples 
+GT:There are a total of 32 temples uttarakasita
+rt:At present in Uttarkashi there are a total of 32 temples 
+
+479)प्रवेश द्वार २ मीटर उंच आहे
+OS:Entrance door is 2 meters tall 
+GT:The entrance is 2 meters tall
+rt:Entrance door is 2 meters tall 
+
+480)ज्याला मार्कण्डेय लिंग म्हटले जाते
+OS:Which is called Markandeya ling 
+GT:He is said Markandey sex
+rt:Which is called Markandeya ling 
+
+481)याला एकादश रुद्रेश्वर मंदिर म्हटले जाते
+OS:This is called एकादश Rudreshwar temple 
+GT:The temple is said to XI rudres
+rt:This is called Ekadash Rudreshwar temple 
+
+482)हे लिंग दगडी आहे
+This ling is made up of stone
+GT:This sex is everywhere
+rt:This ling is made up of stone
+
+483)घाट उतरण्यासाठी पक्का जिना आहे
+Concrete stair is for descending valley 
+GT:Bell is represented through the room
+rt:To descend the ghat there are concrete steps
+
+484)लिंगावर जलपात्र आहे
+On ling is a waterbowl
+GT:Gender is urn
+rt:On the ling is a waterbowl
+
+485)हे स्थान गंगोटी नावाने प्रसिद्ध होते
+This place was(occured) popular with the name Gangoti
+GT:This place was known gangoti
+rt:This place was popular with the name Gangoti
+
+486)त्यानंतर पाऊस पडतो
+After that falls rain
+GT:Then the rain falls
+rt:After that it rains
+
+487)या देवतेची मूर्ती धातूची आहे
+This God's idol is of metal
+GT:This is a metal statue of the Deity
+rt:THis god's idol is made up of metal
+
+488)ज्याच्या बाहेर हवनकुंड आहे
+Outside which is havankunda
+GT:Which is havanakunda out
+rt:Outside which is a havankunda
+
+489)यांना बालभैरवही म्हटले जाते
+This is called बालभैरवही  
+GT:It is said to balabhairavahi
+rt:This is called Balbhairavi
+ 
+490)इतर मंदीरे उंचवट्यावर आहेत
+Other temples are on height 
+GT:Other temples are high
+rt:Other temples are on a taller height 
+
+491)तुम्ही कोणतेही क्षेत्र प्रवासासाठी निवडू शकता
+You can choose anyone area for travel 
+GT:You can choose to travel to any area
+rt:You can choose any area for travel 
+
+492)हे अभयारण्य चित्त्यासाठी प्रसिद्ध आहे
+This sanctuary is popular for Cheetahs
+GT:It is famous for the Sanctuary cittya
+rt:This sanctuary is popular for Cheetahs
+
+493)येथील सोनेरी वानर खूपच आकर्षक आहेत
+Here golden monkey are very attractive
+GT:The golden monkey are very attractive
+rt:The golden monkey of here are very attractive
+
+494)येथील सोनेरी हरिण खूपच आकर्षक आहेत
+Here golden deer are very attractive 
+GT:The golden deer are very attractive
+rt:The golden deer of here are very attractive
+
+495)येथील लाल पांडा खूपच आकर्षक आहेत
+Here red पांडा are very attractive 
+GT:The red pandas are cute too
+rt:The red pandas here are very attractive
+
+496)येथील सोनेरी गवत खूपच आकर्षक आहेत
+Here golden grasslands are very attractive 
+GT:The golden grasses are very attractive
+rt:The golden grasslands here are very attractive
+
+497)तिथे डॉल्फिन आहेत
+There are Dolphin 
+GT:There are dolphins
+rt:There are Dolphins there
+
+498)हे स्थान पेरीयार नावाने प्रसिद्ध होते
+This place was(occured) popular with the name Periyaar
+GT:This place was known Periyar
+rt:This place was popular with the name Periyaar
+
+499)हे स्थान आरु नावाने प्रसिद्ध होते
+This place was(occured) popular with the name Aru 
+GT:This place was known Aarau
+rt:This place was popular with the name Aru 
+
+500)बेट छोटेसे होते
+Island was(occured) small 
+GT:The island was small
+rt:Island was small 
+
+501)याला पक्ष्यांचा स्वर्ग म्हटले जाते
+This is called bird's heaven
+GT:The birds are called Paradise
+rt:This is called bird's heaven
+
+502)तो शाकाहारी आहे
+He is vegetarian
+GT:It is a vegetarian
+rt:He is a vegetarian
+
+503)पक्षी दाणे खातो
+Bird eats nuts
+GT:Bird eats seeds
+rt:The bird eats nuts
+
+504)तो निरागस आहे
+He is innocent
+GT:It is innocent
+rt:He is innocent
+
+505)बाजीराव पराक्रमी होता
+Bajirao was(occurred) courageous
+GT:Nana was mighty
+rt:Bajirao was courageous
+
+506)तो पराभूत झाला
+He was(occurred) loser
+GT:He was defeated
+rt:He lost
+
+507)अंगण मोठे आहे
+Frontyard is big
+GT:The courtyard is great
+rt:The frontyard is big
+
+508)हॉल प्रशस्त आहे
+Hall is spacious
+GT:Hall is extensive
+rt:The hall is spacious
+
+509) खोली हवेशीर आहे
+Room is airy
+GT:The room is well ventilated
+rt:The room is airy
+
+510)निसर्ग सुंदर आहे
+Nature is beautiful
+GT:Nature is beautiful
+rt:The nature is beautiful
+
+511)देवेंद्र मुख्यमंत्री आहे
+Devendra is Chief Minister
+GT:Devendra Chief
+rt:Devendra is the Chief Minister
+
+512)सरबत थंड आहे
+Drink is cold
+GT:The syrup is cool
+rt:The drink is cold
+
+513)चहा गरम आहे
+Tea is hot
+GT:Hot tea
+rt:The tea is hot
+
+514)मोदी पंतप्रधान आहे
+Modi is Prime Minister
+GT:Modi is Prime Minister
+rt:Modi is the Prime Minister
+
+515)कॉफी गरम आहे
+Coffee is hot
+GT:Coffee is hot
+rt:The coffee is hot
+
+516)चंद्र शीतल आहे 
+Moon is cool
+GT:Moon is soft
+rt:The moon is cool
+
+517)केरळ देवभूमी आहे
+Kerala is God's place
+GT:Kerala devabhumi
+rt:kerala is God's place
+
+518)सूर्य तेजस्वी आहे
+Sun is bright
+GT:The sun is bright
+rt:The sun is bright
+
+519)रफी गायक आहे
+Rafi is singer
+GT:Rafi is a singer
+rt:rafi is a singer
+
+520)देशपांडे लेखक आहे
+Deshpande is writer
+GT:Deshpande is the author
+rt:deshpande is a writer
+
+521)कालिदास कवी आहे
+Kalidas is poet
+GT:Poet Kalidas
+rt:Kalidas is a writer
+
+522) कोकणचा आंबा प्रसिद्ध आहे
+Konkan’s mango is popular
+GT:Known as' Konkan is famous Mango
+rt:Konkan’s mango is popular
+
+523) शिवाजी शूर राजा आहे
+Shivaji is brave king
+GT:Shivaji is mighty king
+rt:Shivaji is a brave king
+
+524)तानाजी शूर आहे
+Tanaji is brave
+GT:Clarifies the Brave
+rt:Tanaji is brave
+
+525)ताजमहाल जगविख्यात आहे
+Taj Mahal is world famous
+GT:Taj Mahal is demanded
+rt:The Taj Mahal is world famous
+
+526)कुतुबमिनार जगविख्यात आहे
+Kutub Minar is world famous
+GT:Kutubaminara is demanded
+rt:The Kutub Minar is world famous
+
+527)अजिंठा जगविख्यात आहे
+Ajintha is world famous
+GT:Ajanta is demanded
+rt:The Ajintha is world famous
+
+528)शनिवारवाडा जगविख्यात आहे
+Shaniwarwada is world famous
+GT:Shaniwarwada is demanded
+rt:The Shaniwarwada is world famous
+
+529)लेणी जगविख्यात आहेत
+Caves are worldfamous
+GT:There is demanded
+rt:The caves are worldfamous
+
+530)पाडगावकर कवी आहे
+Padgaonkar is poet
+GT:Padgaonkar is a poet
+rt:Padgaonkar is a poet
+
+531)शांताशेळके कवयित्री आहे
+Shanta Shelake is Poet 
+GT:Santaselake is poetess
+rt:Shanta Shelake is a poetess
+
+532)लतामंगेशकर गायिका आहे
+Lata Mangeshkar is  singer
+GT:Latamangesakara is singer
+rt:Lata Mangeshkar is a singer
+
+533)आशाभोसले गायिका आहे
+Asha Bhosle is singer
+GT:Asabhosale is singer
+rt:Asha Bhosle is a singer
+
+534)देवनंद अभिनेता आहे
+Devanand is actor
+GT:Devananda actor
+rt:Devanand is an actor
+
+535)कोकणचा काजू प्रसिद्ध आहे
+Konkan's cashew is famous
+GT:Known as' Konkan popular nuts
+rt:kokans cashew is famous
+
+536)शिवाजीने तोरणा जिंकला
+Shivaji won torna
+GT:Shivaji conquered Torna
+rt:Shivaji conquered torna
+
+537)शिवाजीने सिंहगड जिंकला
+Shivaji won Sinhagad
+GT:Shivaji conquered Sinhagad
+rt:Shivaji conquered Sinhagad
+
+538) शिवाजीने प्रतापगड जिंकला
+Shivaji won Pratapgad
+GT:Shivaji conquered Pratapgarh
+rt:Shivaji conquered Pratapgad
+
+539)शिवाजीने रयरेश्‍वर जिंकला
+Shivaji won Raireshwar 
+GT:Shivaji conquered the rayares
+rt:Shivaji conquered Raireshwar
+
+540)शिवाजीने सुरत जिंकली
+Shivaji won Surat
+GT:Shivaji won Surat
+rt:shivaji conquered surat
+
+541)लालमहाल जगविख्यात आहे
+Lalmahal is world famous
+gt:Lalamahala is demanded
+rt:Lalmahal is world famous
+
+542)कान्हाला भारतचे इडन म्हटले जाते
+India's Eden is called Kanha 
+GT:Kanha India is called Eden
+rt:Kanha is called India's Eden
+
+543)या अभयारण्याचे क्षेत्रफळ ४८४० स्क्वेर फूट आहे
+This sanctuary's area is 4840 square feet 
+GT:The park area is 4840 sq ft
+rt:This sanctuary's area is 4840 square feet 
+
+544)या क्षेत्रफळ साधारण ८०० स्क्वेर फूट आहे
+This area is around/about 800 square feet 
+GT:The area around the 800 sq ft
+rt:This area is around/about 800 square feet 
+
+545)या क्षेत्रफळ साधारण १५०० स्क्वेर फूट आहे
+This area is around/about 1500 square feet 
+GT:This area is about 1500 sq ft
+rt:This area is around/about 1500 square feet 
+
+546)या बागेचेचे क्षेत्रफळ ४८४० स्क्वेर फूट आहे
+This garden's area is 4840 square feet 
+GT:The area of 4840 sq feet bagecece
+rt:This garden's area is 4840 square feet 
+
+547)या क्षेत्रफळ साधारण २५५० स्क्वेर फूट आहे
+This area is around/about 2550 square feet 
+GT:This area is simple Literacy and Rs.2550 sq ft
+rt:This area is around/about 2550 square feet 
+
+548)या मैदानाचे क्षेत्रफळ १५४७ स्क्वेर फूट आहे
+This playground's area is 1547 square feet 
+GT:The ground area of 1547 sq feet
+rt:This playground's area is 1547 square feet 
+
+549)सुलतानपूरमध्ये काही बाभूळाची झाडेही मिळतात
+In Sultanpur some Babool's tree got
+GT:Some of the trees are in Sultanpur babhulaci
+rt:There are some Babool trees in Sultanpur
+
+550)हॅंगग्लायडिंग एक साहसी खेळ आहे
+Hanggliding is one courageous play
+GT:Hengaglayadinga khela is an adventure
+rt:Hanggliding is a corageous game 
+
+551)रस्ता अरुंद होता
+Road was(occured)s narrow
+GT:Road was narrow
+rt:The Road was narrow
+
+552)बंजीजंपींग एक साहसी खेळ आहे
+Bunjee Jumping is one corageous play
+GT:Banjijampinga khela is an adventure
+rt:Bunjee Jumping is a corageous game 
+
+553)स्कायडायविंग एक साहसी खेळ आहे
+Sky Diving is one corageous play
+GT:Skayadayavinga khela is an adventure
+rt:Sky Diving is a corageous game 
+
+554)स्कायस्वींग एक साहसी खेळ आहे
+Sky Swing is one corageous play
+GT:Skayasvinga khela is an adventure
+rt:Sky Swing is a corageous game 
+
+554)स्कीईंग लोकप्रिय आहे
+Skiing is popular 
+GT:Skiing is popular
+rt:Skiing is popular 
+
+555)बर्फ पंधराशुब्र होता
+Snow was(occured)s clean white
+GT:Snow pandharasubra was
+rt:The Snow was clean white
+
+556)पाणी निळेशार होता
+Water was(occured)s cool blue 
+GT:The water was nilesara
+rt:The Water was cool blue 
+
+557)पान हिरवेगार होते
+Leaf was(occured)s cool green 
+GT:Asparagus was home
+rt:The leaf was cool green
+
+558)साप पिवळाधमक होता
+Snake was(occured)s dark yellow 
+GT:Snake saffron was
+rt:The snake was dark yellow
+
+559)काश्मिरी मुली सुंदर असतात 
+Kashmiri girls are beautiful
+GT:Kashmiri girls are beautiful
+rt:Kashmiri girls are beautiful
+
+560)पहाडी लोक खूप कष्ट करतात
+Hilly people do very hardwork 
+GT:Mountain people labor
+rt:Hilly region people are hardworking
+
+561)ऊन कडक होते
+Summer was(occured) hard
+GT:Wool was hard
+rt:The summer was harsh
+
+562)आकाश निळेशार होते
+Sky was(occured) cool blue 
+GT:The sky nilesara
+rt:The sky was cool blue
+
+563)कोळीनृत्य बघायला मजा आली 
+To see Koli dance was fun 
+GT:Kolinrtya was fun to watch
+rt:It was fun to watch Koli dance
+
+564)स्कीईंग सर्वांसाठी उपलब्ध आहे
+Skiing is for all available
+GT:Skiing is available for all
+rt:Skiing is available for all
+
+565)दरवर्षी येथे लाखो पर्यटक येतात
+In the every year here come tourist lakh 
+GT:Millions of tourists come here every year
+rt:Every year tourists come here is lakhs
+
+566)या धरणाची उंची २६० मीटर आहे
+This dam's tall(height) is 260 meters
+GT:The height is 260 meters
+rt:This dam's height is 260 meters
+
+567)या मूर्तीची उंची २६० मीटर आहे
+This idol's tall(height) is 260 meters 
+GT:The image height is 260 m
+rt:This idol's height is 260 meters
+
+568)या मंदिराची उंची २६० मीटर आहे
+This temple's tall(height) is 260 meters
+GT:This is the height of 260 meters
+rt:This temple's tall is 260 meter
+
+569)या धबधब्याची उंची २६० मीटर आहे
+This waterfall's tall(height) is 260 meters
+GT:This waterfall is 260 meters in height
+rt:This waterfall's height is 260 meters
+
+570)या मिनाराची उंची २६० मीटर आहे
+This minar'stall(height) is 260 meters 
+GT:The height is 260 meters minaraci
+rt:This minar's height is 260 meters 
+
+571)या विमानाची उंची २६० मीटर आहे
+This plane's tall(height) is 260 meters 
+GT:The aircraft is 260 meters in height
+rt:This plane's height is 260 meters
+
+572)धार्मिक दृष्टिकोनातून याचे खूप महत्व आहे
+From religious point of view this is very important 
+GT:Religious point of view it is very important
+rt:From religious point of view this is very important 
+
+573)जेवण चविष्ठ होते
+Food was(occured) tasty 
+GT:The meal cavistha
+rt:Food was tasty
+
+574)जेवण गोड होते
+Food was(occured) sweet
+GT:The meal sweet
+rt:Food was sweet
+
+575)जेवण भरपूर होते
+Food was(occured) a lot 
+GT:Had a lot of meals
+rt: There was a lot of food
+
+576)हिमालयात सर्व प्रकारच्या नैसर्गिक रचना आहेत
+All types natural structures are in Himalayas 
+GT:Himalayas are all kinds of natural form
+rt: There are all types of natural structures in Himalaya
+
+577)हे मंदिर बसस्थानकाहून २५० किमी अंतरावर आहे
+This temple from bus stand is 250 kms distance 
+GT:The temple is about 250 km off the stop
+rt:This temple is at a distance of 250 km from bus stand
+
+578)हे मंदिर नदीतळापासून २०० मीटर उंचीवर आहे
+This temple from river bed is 200 meters on tall(height)
+GT:This house is 200 meters from the river height
+rt:This temple is at a height of 200 meters from river bed
+
+579)तो आजारी पडला
+He fell ill 
+GT:He fell ill
+rt: He fell ill
+
+580)जूनमध्ये पावसाळा सुरू होतो
+In June rainy season was(occured) started  
+GT:Monsoon starts in June
+rt: Rainy season starts in June
+
+581)मंदिरात लक्ष्मीची लहान प्रतिमा आहे
+In temple is small idol of Lakshmi
+GT:There is a small image of Lakshmi
+rt:There is a small idol of Lakshmi in the temple
+
+582)चित्रगुप्‍त मंदिर २२ मीटर लांब आहे
+Chitragupta temple is 22 meters long 
+GT:Chitragupta temple is 22 meters long
+rt:Chitragupta temple is 22 meters long 
+
+583)विश्‍वनाथ मंदिर मूर्तिकलेसाठी प्रसिद्ध आहे
+Vishwanath temple is popular for sculpture art 
+GT:Vishwanath temple is famous for murtikale
+rt:Vishwanath temple is popular for sculpture art
+
+584)भरतपूर राजस्थानचे प्रवेशद्वार आहे
+Bharatpur is Rajasthan's entrance 
+GT:Bharatpur Rajasthan is the entrance
+rt: Bharatpur is Rajasthan's entrance 
+
+585) सांचौर एक प्राचीन कसबा आहे
+Saunchor is one ancient colony 
+GT:Sanchaur is an ancient Kasba
+rt: Saunch is an ancient colony
+
+586)रामदेवाच्या जत्रेत हजारों पुरुष येतात
+Thousands of men come to Ramdev's fare 
+GT:Ramadeva the Fair are thousands of men
+rt: Thousands of men come to Ramdev's fair
+
+587)तेथे मोठा वाघ आहे
+There is big tiger
+GT:There is a large tiger
+rt: There is a big tiger
+
+588)आम्ही मुंबईला जात आहे
+We are going to Mumbai 
+GT:We go to Mumbai
+rt: We are going to Mumbai
+
+589)आम्ही कोकणात जात आहे
+We are going in Konkan 
+GT:We are easy
+rt: We are going to Konkan
+
+590)आम्ही अमेरिकेला जात आहे
+We are going to America 
+GT:We are America
+rt: We are going to America
+
+591)अमेरिका खूप स्वच्छ आहे
+America is very clean 
+GT:America is very clear
+rt: America is very clean
+
+592)उर्सची जत्रा अजमेरमध्ये भरते
+Ursh's fare fills in Ajmer
+GT:Urs Ajmer Fair fills in
+rt: Ursh's fare fills in Ajmer
+
+593)राजस्थानची पहिली स्त्री पायलट नम्रताभट्‍ट आहे
+Rajasthan's first  lady pilot is Namrata Bhatt 
+GT:Rajasthan is the first woman pilot namratabhatta
+rt:Rajasthan's first female pilot is Namrata Bhatt
+
+594)मी अंबा खात आहे
+I am eating mango
+GT:I am eating Amba
+RT: I am eating mango
+
+595)मी अंजीर खात आहे
+I am eating fig 
+GT:I am eating figs
+rt:I am eating fig
+
+596)येथे नौकाविहार करणे सुखद अनुभव आहे
+Here do boat riding is delightful experience 
+gt:Boating is a humbling experience to be here
+rt:Here boat riding is a delightful experience 
+
+597)हे एक चांगले उद्यान आहे
+OS:This is one nice park 
+GT:This is a good park
+rt: This is a nice park
+
+598)बकुलियामध्ये एक प्रसिद्ध धबधबा आहे
+OS:In Bakulia is one popular waterfall 
+GT:Bakuliya is a famous waterfall
+rt: There is one popular waterfall in Bakulia
+
+599)येथे ट्रेकिंग करणे जोखिमपूर्ण अनुभव आहे
+Here do trekking is dangerous experience 
+gt:Trekking experience is at risk
+rt:Here treakking is a dangerous experience
+
+600)जामा मशिद आहे आकर्षणाचे केंद्र
+OS:जामा Mashjid is attraction's centre 
+GT:Jama Masjid is the center of attraction
+rt: Jama Masjid is centre of attraction
+
+601)धनबाद जिल्ह्यातील पर्यटन स्थळे
+OS:Tourism place of Dhanbad disrict 
+GT:Dhanbad district, tourist attractions
+rt:Tourism places of Dhanbad
+
+602)साहबगंज जिल्ह्यातील पर्यटन स्थळे
+OS:Tourism place of Sahibganj disrict
+GT:Sahabaganja tourist district
+rt: tourism places of Sahibganj district
+
+603)बोकारो जिल्ह्यातील पर्यटन स्थळे
+OS:Tourism place of Bokaro disrict 
+GT:Bokaro district, tourist attractions
+rt:Tourism places of Bokaro disrict
+
+604)चतरा जिल्ह्यातील पर्यटन स्थळे
+OS:Tourism place of Chatara disrict
+GT:Chatra district, tourist attractions
+rt:Tourism places of Chatra disrict
+
+605)पाकुड जिल्ह्यातील पर्यटन स्थळे
+OS:Tourism place of Pakud disrict
+GT:Pakuda tourist district
+rt:Tourism places of Pakur disrict
+
+606)गोड्डा जिल्ह्यातील पर्यटन स्थळे
+OS:Tourism place of Godda disrict 
+GT:Godda district, tourist attractions
+rt:Tourism places of Godda disrict
+
+607)हजारीबाग जिल्ह्यातील पर्यटन स्थळे
+OS:Tourism place of Hajaribaug disrict
+GT:Hazaribagh district, tourist attractions
+rt:Tourism places of Hajaribaug disrict
+
+608)पालकोट प्रखंड मुख्यालय आहे
+OS:Palkot is block headquarters 
+GT:Palakota divisional headquarters
+rt:Palkot is block headquarter
+
+609)हे खरोखर रोमांचकारी असते
+OS:This is really thrilling 
+GT:This is really exciting
+rt:This is really thrilling
+
+610)विमानतळ शहरापासून २० किलोमीटरच्या अंतरावर आहे
+OS:Airport from city is 20 kilometer distance 
+GT:20 km from the city airport is at a distance of
+rt: Airport is at a distance of 20 kilometers from city
+
+611)रांची जिल्ह्यातील पर्यटन स्थळे 
+OS:Tourism place Ranchi disrict 
+GT:Tourist Places in Ranchi district
+rt:Tourism places of Ranchi disrict
+
+612)येथे २० प्रकारचे प्राणी आढळतात
+Here are found 20 types of animal 
+gt:Here are 20 kinds of animals
+rt:Here there are 20 types of animals found
+
+ 613)चीन कृषीप्रधान देश होता
+China was(occured) an agrarian country 
+GT:China krsipradhana country might
+RT:China was an agrarian country 
+
+614)त्यानंतर येते धनत्रयोदशी
+OS:After that come Dhanteras 
+GT:Then the cow
+rt: After that comes Dhanteras
+
+615)त्यानंतर येते नरकचतुर्दशी
+OS:After that come Chaudas
+GT:Then comes narakacaturdasi
+rt:After that comes Chaudas
+
+616)हिमालय निसर्गाचे महामंदिर आहे
+OS:Himalaya is nature's megatemple 
+GT:Himalaya is the cathedral of nature
+rt: Himalaya is nature's megatemple
+
+617)अलाहाबाद प्रसिद्ध तीर्थक्षेत्र आहे
+OS:Allahabad is popular pilgrimage 
+GT:Allahabad is famous Pilgrim
+rt:Allahbad is a popular pilgrimage
+
+618)अमृतसर सुवर्ण मंदिराचे शहर आहे 
+OS:Amritsar is golden temple's city
+GT:Golden Temple in Amritsar is a city
+rt:Amristsar is Golden temple's lace
+
+619)नेहरू उद्यानाची सजावट आकर्षक असते
+OS:Nehru park's decoration is attractive 
+GT:Nehru Garden decor is attractive
+rt:Nehru park's decoration is attractive
+
+620)मेझा धरणाची उंची ३० फूट आहे
+OS:Mejha dam's tall(height) is 30 feet 
+GT:Mejha height is 30 feet
+rt:Mejha dam's height is 30 
+
+621)येथे एक विश्रामगृह आहे
+OS:Here is one resthouse 
+GT:Here is a guest house
+rt:There is a resthouse here
+
+622)येथेच प्रसिद्ध महानलेश्‍वर मंदिर आहे
+OS:Here is popular Mahanaleshwar temple 
+GT:There is a famous temple mahanales
+rt:There is a popular Maha Naleshwar temple here
+
+623)दार्जीलिंगचा एसटीडी कोड ०३५४ आहे
+OS:Darjeeling's STD code is 0354 
+GT:Darjeeling STD code 0354
+rt:Darjeeling's STD code is 0358
+
+624)कुरसियोंग ३२ किमी अंतरावर आहे
+OS:Kursiyong is 32 kms distance 
+GT:Kurseong is 32 km off
+rt:Kursiyong is 32 kms far
+
+625)कलिमपोंग ५१ किमी अंतरावर आहे
+OS:Kalimpong is 51 kms distance 
+GT:Kalimaponga is 51 km off
+rt:Kalimapong is 51 kms far
+
+626)मजीतार २१ किमी अंतरावर आहे
+OS:Majitaar is 21 kms distance 
+GT:Majitara is 21 km off
+rt:Majitaar is 21 kms far
+
+627)संदकफू ५८ किमी अंतरावर आहे
+OS:Sandakphu is 58 kms distance 
+GT:Sandakaphu is 58 km off
+rt:Sandakaphu is 58 kms far
+
+628)सेंचल तलाव १० किमी अंतरावर आहे
+OS:Senchal pond is 10 kms distance 
+GT:Sencala lake is 10 km off
+rt:Senchal pond is 10 kms far
+
+629)सेंचल तलाव एक प्रसिद्ध सहलीचे ठिकाण आहे
+OS:Senchal pond is one popular trip's place 
+GT:Sencala lake is a popular place for a Trip
+rt:Senchal pond is a popular place for trip
+
+630)टकडा २६ किमी दूर आहे
+OS:टकडा is 26 km far 
+GT:Takada 26 km away
+rt:Takda is 26 km far 
+
+631)सिक्‍किमची राजधानी गंगटोक आहे
+OS:Sikkim's capital is Gangtok 
+GT:It is the capital of Sikkim, Gangtok
+rt:Kikkim's capital is Gangtok
+
+632)गंगटोकची उंची सुमारे १५४७ मीटर आहे
+OS:Gangtok's tall(height) is about 1547 meters 
+GT:Gangtok height is about 1547 meters
+rt:Gangtok's height is about 1547 meters 
+
+633)गंगटोकचा एसटीडी कोड ०३५९२ आहे
+OS:Gangtok's STD code is 03592 
+GT:Gangtok STD code 03592
+rt:Gangtok's STD code is 03592 
+
+634)कलिंगपाँगचा एसटीडी कोड ०३५५२ आहे
+OS:Kalimpong's STD code is 03552 
+GT:Kalingapamgaca STD code 03552
+rt:Kalimpong's STD code is 03552 
+
+635)स्विस वेल्फेयर डेअरी ४ किमी अंतरावर आहे
+OS:Swiss welfare dairy is 4 km distance 
+GT:Swiss dairy Welfare is 4 km
+rt:Swiss welfare dairy is 4 km far
+
+636)﻿ऋता बारीक आहे
+Ruta is delicate(thin)
+gt:Rta is finely
+rt:Ruta is thin
+
+637)रेखा सुंदर अभिनेत्री आहे
+Rekha is beautiful actress
+gt:Line is a beautiful actress
+rt:Rekha is a beautiful actress
+
+638)मॅच उद्या आहे
+Match is tomorrow
+gt:Match is tomorrow
+rt:The match is tomorrow
+
+639)अपूर्वा हुशार आहे
+Apurva is brlliant
+gt:Apoorva is able
+rt:Apurva is brilliant
+
+640)मी आनंदी आहे
+I am happy
+gt:I am happy
+rt:I am happy
+
+641)अक्षय प्राचार्य आहे
+Akshay is professor
+gt:Akshay is the principal
+rt:Akshay is a professor
+
+642)आज पाऊस नाही
+Today not rain
+gt:No rain today
+rt:There is no rain tomorrow
+
+643)तेथे पाऊस आहे
+There has rain
+gt:There is rain
+rt:It is rain there
+
+643)अपूर्वा उंच आहे
+Apurva is tall
+gt:Apoorva is high
+rt:Apurva is tall
+
+644)अपूर्वा बुटकी आहे
+Apurva is short
+gt:Apoorva is short
+rt:Apurva is short
+
+645)पुणे मोठे शहर आहे
+Pune is big city
+gt:Pune is a great city
+rt:Pune is a big city
+
+646)हिंदी मातृभाषा आहे
+Hindi is mother tongue
+GT:Hindi is the mother tongue
+RT:Hindi is the mother tongue
+
+647)अपूर्वा खरे बोलते
+Apurva speaks truth
+gt:Apoorva speaks the truth
+rt:Apurva speaks the truth
+
+648)विश्व सुंदर आहे
+World is beautiful
+gt:The world is beautiful
+rt:The world is beautiful
+
+649)तो अभिनय करतो
+He does acting
+gt:It makes acting
+rt:He does acting
+
+650)गणपती देव आहे
+Ganpati is god
+gt:Ganesha is the God
+rt:Ganpati is a God
+
+651)मंदिर प्राचीन आहे
+Temple is ancient
+gt:The temple is an ancient
+rt:The temple is old
+
+652)तो मदत करतो
+He does help
+gt:It helps
+rt:He helps 
+
+653)तो कारकून आहे
+He is clerk
+gt:It is a clerk
+rt:He is a clerk
+
+654)तो आळशी आहे
+He is lazy
+gt:It is lazy
+rt:He is lazy
+
+655)तो कष्ट करतो
+He does hardwork
+gt:It does pain
+rt:He does hardwork
+
+656)तो स्वप्न पाहतो
+He sees dream
+gt:He sees the dream
+rt:He sees dreams
+
+657)किल्ला भक्कम आहे
+Fort is strong
+gt:The fort is stable
+rt:The fort is strong
+
+658)किल्ला अवाढव्य आहे
+Fort is huge
+gt:The fort is huge
+rt:The fort is huge
+
+659)तो स्वार्थी आहे
+He is selfish
+gt:It is selfish
+rt:He is selfish
+
+660)तो आमचा मित्र आहे
+He is our friend
+gt:He is our friend
+rt:He is our friend
+
+661)विजय निश्चित आहे
+Victory is certain
+gt:Victory is certain
+rt:Victory is certain
+
+662)रस्ता सोपा आहे
+Road is simple
+gt:The road is easy
+rt:The road is easy
+
+663)सोबत महत्वाची आहे
+Company is important
+gt:Company is an important
+rt:Company is important
+
+664)विषय अवघड आहे
+Subject is difficult
+gt:The subject is difficult
+rt:The subject is difficult
+
+665)कष्ट महत्वाचे होते
+Hardwork was(occurred) important
+gt:It was important to pain
+rt:Hardwork is important
+
+666)तो प्रामाणिक आहे
+He is honest
+gt:It is serious
+rt:He is loyal
+
+667)तो राजकारणी आहे
+He is in the politics
+gt:It is the politicians
+rt:He is a politician
+
+668)आंदोलन देशव्यापी आहे
+Movement is huge
+gt:Is a nationwide movement
+rt:The movement is nationwide
+
+669)सिनेमा मोठा आहे
+Movie is big
+gt:Cinema is a great
+rt:Movie is big
+
+670)देश विकसित आहे
+Country is developed
+gt:The country has developed
+rt:The country is developed
+
+671)देश विकसनशील आहे
+Country is developing
+gt:Developing country
+rt:The country is developing
+
+672)देश अविकसित आहे
+Country is not developed
+gt:Undeveloped land
+rt:Country is not developed
+
+673)तो सूत्रसंचालक आहे
+He is anchor
+gt:It is an anchor
+rt:He is an anchor
+
+674)सचिन खेळाडू आहे
+Sachin is player
+gt:Sachin player
+rt:Sachin is a player
+
+675)तो चांगला खेळतो
+He plays nice
+gt:He plays good
+rt:He plays nice
+
+676)तो दूर राहतो
+He lives far
+gt:He lives off
+rt:He lives far
+
+677)तो जवळ राहतो
+He lives nearby
+gt:He lives near
+rt:He lives near
+
+678)तो टॉवेल ओला आहे
+OS:That towel is wet
+GT:It is wet towel
+rt:That towel is wet
+
+679)पृथ्वी एक ग्रह आहे
+OS:One planet is earth 
+GT:Earth is a planet
+rt:Earth is a planet
+
+680)हार्दिक शुभेच्छा
+Best(heartiest) wishes
+GT:wishes
+RT:best wishes
+
+681)हार्दिक अभिनंदन
+Best(heartiest) congratulations
+GT:hearty congratulations
+RT:heartiest congratulations
+
+682)खूप धन्यवाद
+very thankyou
+GT:Thank you very much
+RT:Thank you very much
+
+683)शुभ यात्रा
+Good(happy) journey
+GT:Happy journey
+RT:Happy journey
+
+684)सुखद यात्रा
+Delightful journey
+GT:Happy journey
+RT:Delightful journey
+
+685)मराठी मातृभाषा आहे
+Marathi is mother tongue
+GT:Marathi is the mother tongue
+RT:Marathi is mother tongue
+
+686)अखंड हिंदुस्तान
+Undivided India
+GT:Hindustan complete
+RT:Undivided India
+
+687)राजस्थानची मुख्य भाषा राजस्थानी आहे
+Rajasthani is chief language of Rajasthan 
+GT:Rajasthan is Rajasthani main language
+rt:Rajasthani is chief language of Rajasthan
+
+688)तो प्रेमळ आहे
+He is lovely
+gt:He is loving
+rt:He is lovable
+
+689)तो निवडणूक जिंकला
+He won election
+gt:He won the election
+rt:He won the election
+
+690)आई प्रेमळ आहे
+Mother is lovely
+gt:Loving mother
+rt:Mother is lovely
+
+691)तो विनोदी आहे
+He is comedy
+gt:It is funny
+rt:He is humurous
+
+692)आज वाढदिवस आहे
+Today is birthday
+gt:Today is the birthday of the
+rt:Today is the birthday
+
+693)आज परीक्षा आहे
+Today is exam
+gt:This is a test
+rt:Today is an exam
+
+694)काच पारदर्शक आहे
+Glass is transparant
+gt:Glass is transparent
+rt:Glass is transparent
+
+695)लोखंड विजवाहक आहे
+Iron is conductor
+gt:Iron is vijavahaka
+rt:Iron  is a conductor
+
+696)प्रश्न चुकीचा आहे
+Question is wrong
+gt:The question is incorrect
+rt:
+
+697)उत्तर बरोबर आहे
+Answer is correct 
+gt:The answer is correct
+rt:The answer is correct
+
+698)सॉफ्टवेअर चांगले आहे
+Software is nice
+gt:The software is good
+rt:The software is nice
+
+699)राजा दयाळू आहे
+King is kind
+gt:King is gracious
+rt:The king is kind
+
+700)योजना चांगली आहे
+Idea is nice
+gt:It is a good plan
+rt:The idea is nice
+
+701)पिढी सुशिक्षित आहे
+Generation is educated
+gt:Generation is educated
+rt:The generation is educated
+
+702)तो डॉक्टर आहे
+He is doctor
+gt:He is a doctor
+rt:He is a doctor
+
+703)तो वकील आहे
+He is lawyer
+gt:It is the lawyer
+rt:He is a lawyer
+
+704)तो व्यावसायिक आहे
+He is businessman
+gt:It is a business
+rt:He is a businessman
+
+705)तो इंजिनियर आहे
+He is engineer
+gt:It is an engineer
+rt:He is an engineer
+
+706)काळ बदलला आहे
+Time has changed 
+gt:Times have changed
+rt:Time has changed
+
+707)तो प्रतिनिधी आहे
+He is leader
+gt:It is representative of the
+rt:He is the leader
+
+708)तो मराठी आहे
+He is marathi
+gt:It is Marathi
+rt:He is marathi
+
+709)तो धर्मनिरपेक्ष आहे
+He is secular
+gt:It is secular
+rt:He is secular
+
+710)तो सत्तधारी आहे
+He is ruler
+gt:It is sattadhari
+rt:He is a ruler
+
+711)ती महापौर आहे
+She is mayor
+gt:That is, the mayor
+rt:She is the mayor
+
+712)तो शिक्षक आहे
+He is teacher
+gt:It is the teacher
+rt:He is a teacher
+
+713)देशात विविधता आहे
+In country has diversity
+gt:The country's diversity
+rt:There is diversity in the country
+
+714. राष्ट्रपती भवनला ३४० खोल्या अाहेत
+President Bhavan has 340 rooms 
+gt:President bhavanala 340 rooms might
+rt:President Bhavan has 340 rooms 
+
+715.महेश्‍वर मंदिरांसाठी प्रसिद्ध आहे
+Maheshwar is popular for temples 
+gt:Maheshwar is famous for temples
+rt:Maheshwar is popular for temples 
+
+716 चीन जगातील सर्वाधीक लोकसंख्येचा देश अाहे
+China is most population's country in the world 
+gt:Most of the world's population living in China might
+rt:China is most populated country in the world
+
+717.रशिया भारताचा मित्र अाहे
+Russia is India's friend 
+gt:Russia's friend might
+rt:Russia is India's friend
+
+718. रशिया जगातील सर्वात मोठा देश अाहे 
+Russia is the biggest country in the world 
+gt:Russia is the largest country in the world might
+rt:Russia is the biggest country in the world 
+
+719 चीन भारतापेक्शा ३ पट मोठा अाहे
+China is 3 times bigger than India 
+gt:China bharatapeksa 3 times bigger might
+rt:China is 3 times bigger than India 
+
+720. रशिया भारतापेक्शा ५ पट मोठा अाहे
+Russia is 5 times bigger than India 
+gt:Russia might bharatapeksa 5 times bigger
+rt:Russia is 5 times bigger than India 
+
+721. अमेरिका भारतापेक्शा ३ पट मोठा अाहे
+America is 3 times bigger than India 
+gt:US bharatapeksa 3 times bigger might
+rt:America is 3  times bigger than India
+
+722. नेपाळ भारताचा मित्र अाहे
+Nepal is India's friend 
+gt:Nepal, India might Friends
+rt:Nepal is India's friend 
+
+723. बांगलादेश भारताचा मित्र अाहे
+Bangladesh is India's friend 
+gt:Bangladesh, India might Friends
+rt:Bangladesh is India's friend 
+
+724. अमेरिका भारताचा मित्र अाहे
+America is India's friend 
+gt:America's friends might
+rt:America is India's friend 
+
+725. भारत कृषीप्रधान देश अाहे
+India is agrarian country 
+gt:India krsipradhana country might
+rt:India is agrarian country 
+
+726. अमेरिका औद्योगिक देश अाहे
+America is industrial country 
+gt:US industrial countries might
+rt:America is an industrial country 
+
+727. भारतात २९ राज्ये अाहेत
+India has 29 states 
+gt:India might States 29
+rt:India has 29 states 
+
+728. अमेरिकेत ५० राज्ये अाहेत
+In America has 50 states 
+gt:50 states in the United States might
+rt:America has 50 states
+
+729. चीनमध्ये २२ प्रांत अाहेत
+In China has 22 provinces 
+gt:22 provinces in China might
+rt:China has 22 province
+
+730. चीन कृषीप्रधान देश अाहे
+China is agrarian country 
+gt:China krsipradhana country might
+rt:China is an agrarian country 
+
+731. कांचनगंगा शिखरची उंची ८५८६ मीटर अाहे
+Kanchenjunga Summit's tall(height) is 8586 meters 
+gt:Kanchenjunga peak height of 8586 meters might
+rt:Kanchenjunga Summit's height is 8586 meters
+
+732. अन्नपूर्णा शिखरची उंची ८०९१ मीटर अाहे
+Annapurna Summit's tall(height) is 8091 meters 
+gt:Annapurna peak height of 8091 meters might
+rt:Annapurna Summit's height is 8091 meters
+
+733. नंदा देवीची उंची ७८१६ मीटर अाहे
+Nanda Devi's tall(height) is 7816 meters
+gt:Nanda Devi height of 7816 meters might
+rt:Nanda Devi's height is 7816 meters
+
+734. भारतामध्ये १६ मुख्य प्रांत होते
+In India were 16 chief province 
+gt:India were 16 main provinces
+rt:In India were 16 chief province 
+
+735. अमेरिकेत १३ मुख्य प्रांत होते
+In America were 13 chief provinces 
+gt:US 13 was the main province
+rt:America 
+
+736. भारतामध्ये ७ मुख्य नद्या अाहेत
+India has 7 chief rivers
+gt:7 main rivers in India might
+rt:India has 7 chief rivers
+
+737. अमेरिकेत ५ मुख्य तलाव अाहेत
+In America has 5 chief pond
+gt:US 5 main tank might
+rt:In America there as 5 ponds
+
+738. भारतामध्ये १० पर्वतरांगा अाहेत
+India has 10 mountain ranges 
+gt:India might Range 10
+rt:India has 10 mountain ranges
+
+739. जगात ७ खंड अाहेत
+World has 7 continent 
+gt:Section 7 of the world might
+rt:There are 7 continents in the world
+
+740.युरोप पर्यटकांचा सर्वात अावडता खंड अाहे
+Europe is tourist's in all favorite continent 
+gt:Visitors might break Europe's most aavadata
+rt:Europe is tourists most favorite place
+
+741. लालकिल्ला १८ मीटर उंच अाहे
+Red Fort is 18 meters tall 
+gt:Lalakilla 18 meters tall might
+rt:Red Fort is 18 meter tall 
+
+742. लडाख ६००० मीटर उंचीवर अाहे
+Ladakh is 6000 meters on tall(height) 
+gt:Ladakh height of 6000 meters might
+rt:Ladakh is 6000 meter on tall
+
+743. मनाली २०५० मीटर उंचीवर अाहे
+Manali is 2050 meter on tall(height) 
+gt:Manali height of 2050 meters might
+rt:Manali is 2050 meter on height
+
+744. अलीबाग पुण्यापासून १४२ किमी अंतरावर अाहे
+Alibaug is 142 km distance from Pune 
+gt:142 km from Pune to Alibag might
+rt:Alibaug is 142 km far from Pune 
+
+745. येथे राहण्यासाठी हॉटेल अाहेत
+Here is hotel for live 
+gt:Might stay at the hotel
+rt:There is a hotel to live here
+
+746. येथे पाणी उपलब्ध अाहे
+Here water is available 
+gt:At the water might be available
+rt:Water is available here
+
+747. येथे जेवण उपलब्ध अाहे
+Here food is available  
+gt:Available at meal might
+rt:Food is vailable here
+
+748. येथे स्मर्णिका उपलब्ध अाहे
+Here souvenir is available 
+gt:Might be available at smarnika
+rt:Souvenir is available here
+
+749. मु़ंबईत २ विमानतळे अाहेत
+Mumbai has 2 airports 
+gt:Mumbaita 2 airports might
+rt:Mumbai has 2 airports
+
+750. दिल्लीत २ विमानतळे अाहेत
+Delhi has 2 airports 
+gt:2 airports in Delhi, might
+rt:Delhi has 2 airports
+
+751. कोलकातामध्ये ४ विमानतळे अाहेत
+Kolkata has 4 airports 
+gt:4 airports in Kolkata might
+rt:Kolkata has 4 airports
+
+752. केरळमध्ये ४ विमानतळे अाहेत
+Kerala has 4 airports 
+gt:4 airports in Kerala might
+rt:Kerela has 4 airports
+
+753. मु़ंबईत १ बंदर अाहे
+In Mumbai is 1 port 
+gt:Mumbaita 1 port might
+rt:There is a port in Mumbai 
+
+754. भारतामध्ये १३ बंदरे अाहेत
+India has 13 ports
+gt:In India, 13 ports might
+rt:India has 13 ports
+
+755. युरोपमध्ये १३ समुद्रे अाहेत
+Europe has 13 seas 
+gt:In Europe, 13 water might
+rt:There are 13 seas in Europe
+
+756.अाफ्रिकेत ४७ देश अाहेत 
+Africa has 47 countries
+gt:Aaphriketa 47 countries might
+rt:There are 47 countries in Africa 
+
+757. अाशियात ५० देश अाहेत 
+Asia has 50 countries
+gt:Aasiyata 50 countries might
+rt:There are 50 countries in Asia 
+
+758. युरोपमध्ये ५१ देश अाहेत
+Europe has 51 countries
+gt:51 countries in Europe might
+rt:There are 51 countries in Europe 
+
+759. अंटार्कटिका बर्फाचे खंड अाहे
+Antarctica is snow's continent 
+gt:Antarctica ice volume might
+rt:Antartica is a snow's continent
+
+760. भारताचे मसाले जगप्रसिद्ध अाहेत
+India's spices are world famous 
+gt:India spices famous might
+rt:India's spices are world famous
+
+761. भारताचे रेशीम जगप्रसिद्ध अाहे
+India's silk is world famous 
+gt:India's famous silk might
+rt:India's silk is world famous
+
+762. असामचा चहा जगप्रसिद्ध अाहे
+Assam's tea is world famous 
+gt:Asami famous tea might
+rt:Assam's tea is world famous
+
+763. कर्नाटकची कॉफी जगप्रसिद्ध अाहे
+In the Karnataka's coffee is world famous 
+gt:Karnataka famous coffee might
+rt:Karnata's coffee is world famous
+
+764. दार्जिलींगचा चहा जगप्रसिद्ध अाहे
+Darjeeling's tea is world famous 
+gt:Darjilingaca famous tea might
+rt:Darjeeling's tea is famous
+
+765. निलगिरीचा चहा जगप्रसिद्ध अाहे
+Nilgiri's tea is world famous 
+gt:The world famous tea in the Nilgiris might
+rt:Nilgiri's tea is world famous
+
+766. म्हैसूरची साडी जगप्रसिद्ध अाहे
+Mysore's saree is world famous 
+gt:The world famous Mysore Saree might
+rt:Mysore's saree is world famous 
+
+767. जर्मनीचे घड्याळ जगप्रसिद्ध अाहे
+Germany's watch is world famous 
+gt:The famous German watches might
+rt:Germany's watch is world famous 
+
+768. स्वित्झर्लंडचे घड्याळ जगप्रसिद्ध अाहे
+Switzerland's watch is world famous 
+gt:Famous Swiss watches might
+rt:Switzerland's watch is world famous 
+
+769)रिसियम एक सुंदर सहलीचे ठिकाण आहे
+Risium is one beautiful trip's place 
+GT:Risiyama trip is a beautiful place
+rt:Risium is a beautiful place for trips
+
+769)सिमलापासून कालका रस्त्याने ९० किमी अंतरावर आहे 
+Road distance of Kalka from Shimla is 90 kms 
+GT:Shimla from Kalka road is 90 km off
+rt:Road distance of Kalka from Shimla is 90 kms
+
+770)सिमलापासून चंदीगड रस्त्याने ११७ किमी अंतरावर आहे
+OS:Road distance of Chandigarh from Shimla is 117 kms
+GT:117 km from Chandigarh, Shimla is the way
+rt:Road distance of Chandigarh from Shimla is 117 kms
+
+771)सिमलापासून दिल्ली रस्त्याने ३७० किमी अंतरावर आहे
+OS:Road distance of Delhi from Shimla is 370 kms
+GT:Shimla from Delhi is 370 km off the road
+rt:Road distance of Delhi from Shimla is 370 kms
+
+772)सिमलापासून लुधियाना रस्त्याने २२० किमी अंतरावर आहे
+OS:Road distance of Ludhiana from Shimla is 220 kms
+GT:Shimla road is 220 km from Ludhiana
+rt:Road distance of Ludhiana from Shimla is 220 kms
+
+773)सिमलापासून देहरादून रस्त्याने २४० किमी अंतरावर आहे
+OS:Road distance of Dehradun from Shimla is 240 kms
+GT:240 km from Shimla, Dehradun is way off
+rt:Road distance of Dehradun from Shimla is 240 kms
+
+774)सिमलापासून कुल्लू रस्त्याने २१० किमी अंतरावर आहे
+OS:Road distance of Kullu from Shimla is 210 kms
+GT:Shimla road is 210 km from Kullu
+rt:Road distance of Kullu from Shimla is 210 kms
+
+775)सिमलापासून मनाली रस्त्याने २८० किमी अंतरावर आहे
+OS:Road distance of Manali from Shimla is 280 kms 
+GT:280 km from Shimla, Manali is way off
+rt:Road distance of Manali from Shimla is 280 kms
+
+776)सिमलापासून कल्पा रस्त्याने २६० किमी अंतरावर आहे
+OS:Road distance of Kalpa from Shimla is 260 kms 
+GT:The idea is 260 km off the road from Shimla
+rt:Road distance of Kalpa from Shimla is 260 kms
+
+777)सिमलापासून नारकंड रस्त्याने ६४ किमी अंतरावर आहे
+OS:Road distance of Narkanda from Shimla is 64 kms 
+GT:Shimla road is 64 km from narakanda
+rt:Road distance of Narkanda from Shimla is 64 kms
+
+778)सिमलापासून मंडी रस्त्याने १५६ किमी अंतरावर आहे
+OS:Road distance of Mandi from Shimla is 156 kms
+GT:Mandi is 156 km from Shimla road
+rt:Road distance of Mandi from Shimla is 156 kms
+
+779)सिमलापासून पुणे रस्त्याने ८०० किमी अंतरावर आहे
+OS:Road distance of Pune from Shimla is 800 kms
+GT:Shimla road is 800 km from Pune
+rt:Road distance of Pune from Shimla is 800 kms
+
+780)सिमलापासून नाहन रस्त्याने १४० किमी अंतरावर आहे
+OS:Road distance of Nahan from Shimla is 140 kms 
+GT:Shimla road is 140 km from Nahan
+rt:Road distance of Nahan from Shimla is 140 kms
+
+781)येथे हनुमानचे मंदिर आहे
+OS:Here is Lord Hanuman's temple 
+GT:Here is the temple hanumanace
+rt:There is a Lord Hanuman's temple here
+
+782)मशोबरचे सिमलापासून अंतर १३ किमी आहे 
+OS:Mashobar's distance from Shimla is 13 kms
+GT:Masobarace distance is 13 km from Shimla
+rt:Mashobar's distance from Shimla is 13 kms
+
+783)क्रेगनेनोचे सिमलापासून अंतर १६ किमी आहे
+OS:Cregneno's distance from Shimla is 16 kms
+GT:Kreganenoce distance is 16 km from Shimla
+rt:Cregneno's distance from Shimla is 16 kms
+
+784)बरोगचे सिमलापासून अंतर ५५ किमी आहे
+OS:Barog's distance from Shimla is 55 km 
+GT:Barog distance is 55 km from Shimla
+rt:Barog's distance from Shimla is 55 km 
+
+785)सिमलापासून सोलन ४८ किमी अंतरावर आहे
+OS:From Shimla Solan is 48 kms distance 
+GT:It is 48 km from Shimla Solan off
+rt:Solan is 48 kms on distance from Shimla
+
+786)सिमलापासून फागू २२ किमी अंतरावर आहे 
+OS:From Shimla Phagu is 22 kms distance 
+GT:Shimla is 22 km from phagu
+rt:Phagu is 22 kms on distance from Shimla
+
+787)सिमलापासून थ्योग २३ किमी अंतरावर आहे
+OS:From Shimla Thyog is 23 kms distance 
+GT:Shimla is 23 km from thyoga
+rt:Thyoga is 23 kms on distance from Shimla
+
+788)सिमलापासून कोटगड ८२ किमी अंतरावर आहे
+OS:From Shimla Kottgadh is 82 kms distance 
+GT:Shimla is 82 km from kotagada
+rt:Kottgadh is 82 kms on distance from Shimla
+
+789)सिमलापासून रामपूर १४० किमी अंतरावर आहे 
+OS:From Shimla Rampur is 140 km distance 
+GT:Shimla is 140 km from Rampur
+rt:Rampur is 140 km on distance from Shimla
+
+790)सिमलापासून सराहन १७४ किमी अंतरावर आहे 
+OS:From Shimla Saharan is 174 kms distance 
+GT:Shimla is 174 km from sarahana
+rt:Saharan is 174 kms on distance from Shimla
+
+791)सिमलापासून हतकोटी १०४ किमी अंतरावर आहे 
+OS:From Shimla Hathkoti is 104 kms distance 
+GT:Shimla is 104 kms from hatakoti
+rt:Hathkoti is 104 kms on distance from Shimla
+
+792)पाबर नदी ट्राउट माशांसाठी प्रसिद्ध आहे
+OS:Pabar river is popular for trout fish 
+GT:Pabara river is famous for trout fish
+rt:Pabar river is popular for trout fish 
+
+793)कुलूपासून कतरेन २० किमी अंतरावर आहे
+OS:From Kullu Kataren is 20 kms distance 
+GT:Kulu is 20 km from katarena
+rt:From Kullu Kataren is 20 kms far
+
+794)कुलूपासून रायसन १६ किमी अंतरावर आहे
+OS:From Kullu Raisan is 16 kms distance 
+GT:Kulu is 16 km from rayasana
+rt:From Kullu Raisan is 16 kms far
+
+795)कुलूपासून नागरचे ७८ किमी अंतरावर आहे
+OS:From Kullu Nagarche is 78 kms distance 
+GT:Kulu is 78 km from the urban
+rt:From Kullu Nagarche is 78 kms far 
+
+796)धर्मशाळेपासून दिल्ली ५२६ किमी दूर आहे 
+OS:From Dharmasala Delhi is 526 kms distance
+GT:Dharmasale 526 km away from Delhi
+rt:From Dharmasala Delhi is 526 kms far 
+
+797)धर्मशाळेपासून सिमला २८० किमी दूर आहे 
+OS:From Dharmasala Shimla is 280 kms far 
+GT:Dharmasale 280 km from Shimla
+rt:From Dharmasala Shimla is 280 kms far
+
+798)धर्मशाळेपासून मनाली २६० किमी दूर आहे 
+OS:From Dharmasala Manali is 260 kms far 
+GT:Dharmasale is 260 km away from Manali
+rt:From Dharmasala Manali is 260 kms far 
+
+800)धर्मशाळेपासून पठाणकोट ८५ किमी दूर आहे 
+OS:From Dharmasala Pathankot is 85 kms far 
+GT:Dharmasale 85 km away from Pathankot
+rt:From Dharmasala Pathankot is 85 kms far 
+
+801)धर्मशाळेपासून कांगडा १७ किमी दूर आहे 
+OS:From Dharmasala Kangda is 17 kms far 
+GT:Dharmasale 17 km away from Kangra
+rt:From Dharmasala Kangda is 17 kms far 
+
+802)धर्मशाळेपासून नाडौन ६५ किमी अंतरावर आहे 
+OS:From Dharmasala Nadaun is 65 kms distance 
+GT:Dharmasale is 65 km from nadauna
+rt:From Dharmasala Nadaun is 65 kms far
+
+803)भगवान बैजनाथचे प्रसिद्ध मंदिर येथेच आहे
+OS:Lord Baijnath's popular temple is here 
+GT:God Baijnath temple is famous here
+rt:Lord Baijnath's popular temple is here 
+
+804)ज्वालामुखी उदबत्तींसाठी प्रसिद्ध आहे
+OS:Jwalamukhi is popular for incense sticks 
+GT:The volcano is famous for udabattim
+rt:Jwalamukhi is popular for incense sticks 
+
+805)पालमपूर गालीच्यासाठी प्रसिद्ध आहे
+OS:Palampur is popular for carpets
+GT:Palamapura is famous for galicya
+rt:Palampur is popular for carpets
+
+806)रस्ता मार्ग येथे संपतो
+OS:Road way finishes here 
+GT:At the ends of the road
+rt:The road way finishes here 
+
+807)विजयनगरची राजधानी हंपी होती
+OS:Vijaynagar's capital was(occured) Humpi
+GT:Hampi was the capital of the Vijayanagara
+rt:Vijaynagar's capital was Humpi
+
+808)दिल्लीपासून आग्रा २०० किमी अंतरावर आहे
+OS:From Delhi Agra is 200 kms distance 
+GT:Delhi is 200 km away from Agra
+rt:From Delhi Agra is 200 kms far
+
+809)दिल्लीपासून मथुरा १४५ किमी अंतरावर आहे
+OS:From Delhi Mathura is 145 km distance 
+GT:Delhi is 145 km from Mathura
+rt:From Delhi Mathura is 145 km far
+
+810)आज हे एक विलक्षण पक्ष्यांचे उद्यान आहे
+OS:Today this is one unique bird's park 
+GT:Today, this is a fantastic garden birds
+rt:Today this is a unique bird's park 
+
+811)दिल्लीपासून सोहना ५६ किमी अंतरावर आहे
+OS:From Delhi Sohna is 56 kms distance 
+GT:Delhi is 56 km from Sohna
+rt:From Delhi Sohna is 56 kms far
+
+812)बिर्ला मंदिराजवळ बिर्ला संग्रहालय आहे
+OS:Near Birla temple is Birla museum 
+GT:Birla Mandir Birla Museum is
+rt:Near Birla temple is Birla museum 
+
+813)जवळचे रेल्वे स्थानक औबेदुल्लागंज आहे
+OS:Nearby's railway station is Obedullaganj
+GT:Nearest railway station is aubedullaganja
+rt:Nearby's railway station is Obedullaganj
+
+814)हा पर्वत ९१ मीटर उंचींवर आहे
+OS:This mountain is 91 meters on tall(height)  
+GT:This mountain is 91 meters on uncim
+rt:This mountain is 91 meters high
+
+815)उदयगिरी एक छोटेसे गाव आहे
+OS:Udaigiri is one small village 
+GT:Udayagiri is a small village
+rt:Udaigiri is a small village 
+
+816)गुहा नंबर तीन सामान्य गुहा आहे
+OS:Cave number three is general cave 
+GT:Cave number three common cavity
+rt:Cave number three is a general cave 
+
+817)गुहा नंबर अठरा आयताकार आहे
+OS:Cave number eighteen is rectangular 
+GT:Rectangular cavity is eighteen number
+rt:Cave number eighteen is rectangular 
+
+818)ही प्रतिमा २५ फूट लांब आहे
+OS:This idol is 25 feet long 
+GT:This image is 25 feet long
+rt:This idol is 25 feet long 
+
+819) स्वित्झर्लंडचे चॉकलेट जगप्रसिद्ध अाहे
+Switzerland's chocolate is world famous 
+gt:Famous Swiss chocolate might
+rt:Switzerland's chocolate is world famous 
+
+820)अमेरिकेचा फुटबॉल सुप्रसिद्ध अाहे
+America's football is very popular 
+gt:American football might well
+rt:America's football is very popular 
+
+821)अमेरिकेचा बास्केटबॉल सुप्रसिद्ध अाहे
+America's basketball is very popular 
+gt:The well-known American basketball might
+rt:America's basketball is very popular 
+
+822)अमेरिकेत चित्रपट लोकप्रिय अाहे
+In America movie is popular
+gt:Popular movies in the United States might
+rt:Movies is popular in America
+
+823. अमेरिकेची वास्तुकला जगप्रसिद्ध अाहे
+America's architecture is world famous 
+gt:The famous American architecture might
+rt:America's architecture is world famous 
+
+824  . रोमची वास्तुकला जगप्रसिद्ध अाहे
+Rome's architecture is world famous 
+gt:Romaci famous architecture might
+rt:Rome's architecture is world famous 
+
+825  . इटलीची वास्तुकला जगप्रसिद्ध अाहे
+Italy's architecture is world famous 
+gt:Italy famous architecture might
+rt:Italy's architecture is world famous 
+
+826  . रोमचे चर्च जगप्रसिद्ध अाहेत
+Rome's church is world famous 
+gt:Romace famous church might
+rt:Rome's church is world famous 
+
+827  . इजिप्तचे पिरामिड जगप्रसिद्ध अाहे
+Egypt's pyramid is world famous 
+gt:The famous Egyptian pyramids might
+rt:Egypt's pyramid is world famous 
+
+828. मुघल बाग जगप्रसिद्ध अाहे
+Mughal garden is world famous 
+gt:The world famous Mughal garden might
+rt:Mughal garden is world famous 
+
+829 . हूवर धरण जगप्रसिद्ध अाहे
+Hoover dam is world famous 
+gt:The world famous Hoover Dam might
+rt:Hoover dam is world famous 
+
+830 . चीनची भिंत जगप्रसिद्ध अाहे
+China's wall is world famous 
+gt:China's famous wall might
+rt:China's wall is world famous 
+
+831. इटलीची शिल्पकला जगप्रसिद्ध अाहे
+Italy's sculpture is world famous 
+gt:Italy famous sculpture might
+rt:Italy's sculpture is world famous 
+
+832 . भारतामध्ये क्रिकेट लोकप्रिय अाहे
+In India cricket is popular 
+gt:Popular Cricket in India might
+rt:Cricket is popular in India
+
+833 . भारतामध्ये हॉकी लोकप्रिय अाहे
+In India hockey is popular 
+gt:Hockey popular in India might
+rt:Hockey is popular in India
+
+834 . चीनमध्ये फुटबॉल लोकप्रिय अाहे
+In China football is popular 
+gt:China popular football might
+rt:Football is popular in China
+
+835 . युरोपमध्ये फुटबॉल लोकप्रिय अाहे
+In Europe football is popular 
+gt:Popular in Europe might Football
+rt:Football is popular in Europe
+
+836 . ब्राझीलचे फुटबॉल जगप्रसिद्ध अाहे
+Brazil's football is world famous 
+gt:Brazil, the world famous football might
+rt:Brazil's football is world famous 
+
+837 . दुबई पर्यटकांमध्ये लोकप्रिय अाहे
+Dubai is popular among tourists 
+gt:Dubai in the popular tourist might
+rt:Dubai is popular among tourists 
+
+838 . फ्रान्स पर्यटकांमध्ये लोकप्रिय अाहे
+France is popular among tourists 
+gt:France in the popular tourist might
+rt:France is popular among tourists 
+
+839 . स्वित्झर्लंडचे पर्वत जगप्रसिद्ध अाहे
+Switzerland's mountain is world famous 
+gt:Switzerland famous mountain might
+rt:Switzerland's mountain is world famous 
+
+840 . स्वित्झर्लंड बर्फाचे प्रदेश अाहे
+Switzerland is snow's land 
+gt:Switzerland Ski region might
+rt:Switzerland is a snow's land 
+
+841 . इजिप्त गरम प्रदेश अाहे
+Egypt is hot land 
+gt:Egypt hot zone might
+rt:Egypt is a hot land 
+
+842 . ब्राझील गरम प्रदेश अाहे
+Brazil is hot land 
+gt:Brazil hot zone might
+rt:Brazil is a hot land 
+
+843)इंग्लंडमध्ये क्रिकेट लोकप्रिय अाहे
+In England cricket is popular 
+gt:England cricket might Popular
+rt:Cricket is popular in England
+
+844 . इंग्लंड थंड प्रदेश अाहे
+England is cold land 
+gt:England might cool country
+rt:England is a cold land 
+
+845 . इंग्लंडमध्ये फुटबॉल लोकप्रिय अाहे
+In England football is popular 
+gt:England football might pop
+rt:Football is popular in England
+
+846 . इंग्लंडमध्ये इंग्रजी बोलली जाते
+English is spoken in England 
+gt:English is spoken in England
+rt:English is spoken in England 
+
+847 . भारतामध्ये हिंदी बोलली जाते
+Hindi is spoken in India 
+gt:Hindi is spoken in India
+rt:Hindi is spoken in India 
+
+848 . अमेरिकेत इंग्रजी बोलली जाते
+English is spoken in America 
+gt:English is spoken in the United States
+rt:English is spoken in America 
+
+849. अॉस्ट्रेलिया भारतापेक्शा २ पट मोठा अाहे
+Australia is 2 times bigger than India  
+gt:Aostreliya bharatapeksa 2 times bigger might
+rt:Australia is 2 times bigger than India 
+
+850 . अॉस्ट्रेलियामध्ये क्रिकेट लोकप्रिय अाहे
+In Australia cricket is popular 
+gt:Aostreliya in the popular cricket might
+rt:Cricket is popular in Australia
+
+851 . अॉस्ट्रेलियाचा समुद्रकिनारा जगप्रसिद्ध अाहे
+Australia's coastline is world famous 
+gt:Aostreliyaca famous beach might
+rt:Australia's coastline is world famous  
+
+852 . येथे शाकाहारी जेवण मिळते
+Here get vegetarian food 
+gt:Here gets a vegetarian meal
+rt:Here one gets vegetarian food
+
+853 . येथे मांसाहारी जेवण मिळते
+Here get non-vegetarian food 
+gt:Gets vegetarian meal at
+rt:Here one gets non-vegetarian food
+
+854.)येथे पादत्राणे प्रतिबंधित अाहेत
+Here footwear is prohibited  
+gt:Here footwear might prevent
+rt:Here footwear is prohibited 
+
+855 . येथे जेवण प्रतिबंधित अाहे
+Here food is prohibited 
+gt:Here meal might prevent
+rt:Here food is prohibited 
+
+856 . येथे छायाचित्रण प्रतिबंधित अाहे
+Here photography is prohibited 
+gt:Here might prevent Photography
+rt:Here photography is prohibited 
+
+857 . येथे संगीत प्रतिबंधित अाहे
+Here music is prohibited 
+gt:Here music might prevent
+rt:Here music is prohibited 
+
+858 . येथे मांसाहारी प्रतिबंधित अाहे
+Here non-vegetarian is prohibited 
+gt:Here are carnivores might prevent
+rt:Here non-vegetarian is prohibited 
+
+859 . येथे थुंकणे प्रतिबंधित अाहे
+Here spitting is prohibited 
+gt:Restricted might spit at
+rt:Here spitting is prohibited 
+
+860 . येथे पोहण्यास मनाई अाहे
+Here swimming is not allowed 
+gt:Might prohibit swimming at
+rt:Here swimming is not allowed 
+
+861 . येथे बसण्यास मनाई अाहे
+Here sitting is not allowed 
+gt:Here sit the prohibition might
+rt:Sitting is not allowed here
+
+862 . येथे थांबण्यास मनाई अाहे
+Here waiting is not allowed 
+gt:Might veto to stay here
+rt:Waiting is not allowed here
+
+863 . पुढे प्राणीसंग्रहालय अाहे
+Ahead is zoo 
+gt:Next zoo might
+rt:There is a zoo ahead
+
+864 . पुढे संग्रहालय अाहे
+Ahead is museum 
+gt:Next museum might
+rt:There is a museum ahead
+
+865 . पुढे शाळा अाहे
+Ahead is school 
+gt:Next term might
+rt:there is a school ahead
+
+866 . पुढे धोका अाहे
+Ahead is danger 
+gt:Might risk further
+rt:There is danger ahead
+
+867 . पुढे स्नानगृह अाहे
+Ahead is bathroom 
+gt:Next to the bathroom might
+rt:There is a bathroom ahead
+
+868 . पुढे बोगदा अाहे
+Ahead is tunnel 
+gt:Along the tunnel might
+rt:There is a tunnel ahead
+
+869. पुढे दरी अाहे
+Ahead is valley 
+gt:Might valley along
+rt:There is a valley ahead
+
+870 . पुढे नदी अाहे
+Ahead is river 
+gt:Along the river might
+rt:There is a river ahead
+
+871 . येथे गांधीजींचे स्मारक अाहे
+Here is Gandhiji's memorial 
+gt:At the Gandhi Memorial might
+rt:Here is Gandhiji's memorial
+
+872)ब्रह्मेश्वर मंदिर ब्रह्मकुंडा जवळ आहे
+OS:Brahmeshwar temple is nearby Brahmakunda 
+GT:Brahmes temple is near brahmakunda
+rt:Brahmeshwar temple is near Brahmakunda 
+
+873)कुरुक्षेत्र राजधानी दिल्लीहून सुमारे १७० किलोमीटर दूर आहे
+OS:Kurukshetra capital is about 170 kilometers far from Delhi 
+GT:Delhi is the capital city of Kurukshetra, about 170 km away
+rt:Kurukshetra is about 150 kilometers from capital Delhi
+
+874)चंद्रकूप एक प्राचीन स्थान म्हटले जाते
+OS:Chandrakoop is called one ancient place 
+GT:Candrakupa is called a primitive condition
+rt:Chandrakoop is call an ancient place
+
+875)थानेश्वर पेठेच्या जवळच कमलनाभी मंदिर आहे
+OS:Kamal Nabhi temple is nearby Thaneshwar Petha 
+GT:Kamalanabhi temple near the existing thanes
+rt:Kamal Nabhi temple is near Thaneshwar Petha
+
+876)पेहवा एक पितृतीर्थ स्थळ आहे
+OS:Pehwa is one ancestor pilgrimage place 
+GT:Pehava is a place pitrtirtha
+rt:Pehwa is an ancestorial pilgrimage place
+
+877)पिंजौर एक प्राचीन शहर आहे
+OS:Pinjore is one ancient city 
+GT:Pinjore is an ancient city
+rt:Pinjore is an ancient city
+
+878)सहलीसाठी कोणार्क बीच उपयुक्त आहे
+OS:Konark beach is appropriate for trip 
+GT:Konark is useful for trips between
+rt:Konark beach is appropriate for trip
+
+879)दीव एक केंद्रशासित प्रदेश आहे
+OS:Diu is one centre governed land 
+GT:Diu is a union territory
+rt:Diu is a union territory
+
+880)सोलारियम टॉवर निसर्गोपचारांचे केंद्र आहे
+OS:Solarium tower is natural treatment's centre 
+GT:Solarium Tower is nisargopacarance Center
+rt:Solarium tower is natural treatment's centre
+
+881)लाकोट किल्ला जामनगरचे संग्रहालय आहे
+OS:Lakot fort is Jamnagar's museum 
+GT:Lakota castle is a museum in Jamnagar
+rt:Lakot fort is Jamnagar's museum
+
+882)अहमदाबादपासून जूनागढ ३२७ किलोमीटर अंतरावर आहे
+OS:From Ahmedabad Junagadh is 327 kilometers distance 
+GT:Junagarh is 327 kilometers from Ahmedabad
+rt:Junagadh is 327 kilometers away from Ahmedabad
+
+883)सोमनाथपासून जवळचे विमानतळ केशोद आहे
+OS:Nearby airport from Somnath is Keshod 
+GT:Somnath from the nearest airport is kesoda
+rt:Nearest airport from Somnath is Keshod
+
+884)सापुतारापासून जवळचे विमानतळ मुंबई आहे
+OS:Nearby airport from Saputara is Mumbai
+GT:Saputara from the nearest airport is Mumbai
+rt:Nearest airport from Saputara is Mumbai
+
+885)रायपुरमध्ये अनेक उद्योगधंदे आहेत
+OS:Many industries are in Raipur 
+GT:There are many industries in Raipur
+rt:There are many industries in Raipur
+
+886)विलासपुरमध्ये बरेच उद्योग आहेत
+OS:Many industries are in Bilaspur 
+GT:Bilaspur in several industry
+rt:There are many industries in Bilaspur
+
+887)परशुराम कुंड एक पवित्र तीर्थस्थळ आहे
+OS:Parshuram basin is one holy shrine 
+GT:Parshuram Kund is a holy pilgrimage
+rt:Parshuram basin is a holy shrine 
+
+888)दोन्हीचे क्षेत्र सुमारे २० एकर आहे
+OS:Area of both is about 20 acre 
+GT:Both the area is about 20 acres
+rt:Area of both is about 20 acre 
+
+889)कोच्ची केरळची व्यापारी राजधानीही आहे
+OS:Kochi is also Kerala's business capital 
+GT:Kochi is the commercial capital of Kerala
+rt:Kochi is also Kerala's business capital 
+
+890)मंडोवा नदीवर वज्रपोहा झरा आहे
+OS:Over Mandova river is Vajrapoha stream 
+GT:Mandova river is well vajrapoha
+rt:Over Mandova river is Vajrapoha stream 
+
+891)गौडचेन मालिकी धबधबा खूप लोकप्रिय आहे
+OS:Godchin Maliki waterfall is very popular 
+GT:Gaudacena ownership is very popular waterfall
+rt:Godchin Maliki waterfall is very popular 
+
+892)ग्रॅंड केनयौनचे सौंदर्य महत्वपूर्ण आहे
+OS:Grand Canyon's beauty is important 
+GT:Grand kenayaunace beauty is important
+rt:Grand Canyon's beauty is important 
+
+893)हे नक्षीकाम अत्यंत बारीक आहे
+OS:This architecture is very delicate(thin) 
+GT:This artwork is very finely
+rt:This architecture is very delicate 
+
+894)थायलंडची राजधानी बँकॉक आहे
+OS:Thailand's capital is Bangkok 
+GT:The capital of Thailand is Bangkok
+rt:Thailand's capital is Bangkok 
+
+895)बुद्धाची ही प्रतिमा ३ मीटर उंच आहे
+Buddha's this idol is 3 meters tall 
+GT:This is a 3 meter tall Buddha statue
+rt:Buddha's this idol is 3 meters tall 
+
+896)आधी मारवाड राज्याची राजधानी मंडोर होती 
+Before Marwad state's capital was(occured) Mandor 
+GT:Early ones were Marwar state capital
+rt:Earlier Marwad state's capital was Mandor 
+
+897)लेहचा बाजार खूप मोठा आहे
+Leh's market is very big 
+GT:Lehaca market is huge
+rt:Leh's market is very big 
+
+898)पौडीपासून अदवानी १४ किलोमीटर दूर आहे
+OS:From Paudi Adwani is 14 kilometers far 
+GT:Stile 14 km away from adavani
+rt:From Paudi Adwani is 14 kilometers far 
+
+899)स्लीपिंग बॅग थैलीप्रमाणे असते
+OS:Sleeping bag is like a bag 
+GT:Sleeping Bag is thailipramane
+rt:Sleeping bag is like a bag 
+
+900)ओल्या बर्फाचा रंग नीळा असतो
+OS:Wet snow's color is blue 
+GT:Blue is the color of wet ice
+rt:The color of wet snow is blue
+
+901)राम शूर आहे
+Ram is brave
+gt:Ram is fearless
+rt:Ram is brave
+
+902)सीता सुंदर आहे     
+Seeta is beautiful    
+gt:Sita is beautiful
+rt:seeta is beautiful    
+
+903)लक्ष्मण शक्तिशाली आहे       
+Laxman is powerful 
+gt:Laxman is powerful
+rt:Laxman is powerful 
+
+61कृष्ण चतुर आहे
+Krishna is clever
+gt:Krishna is clever
+rt:Krishna is clever
+
+904)अर्जुन बाण मारतो
+Arjun fires arrow 
+gt:Arjuna shot an arrow
+rt:Arjun fires an arrow
+
+905)कुत्रा मोठ्याने भुंकतो 
+Dog barks big 
+gt:Dog cried bhunkato
+rt:Dog barks loudly
+
+906)मांजर जोरात धावते
+Cat runs in force  
+gt:Play loud cat
+rt:Cat runs fast
+
+907)बाळ झोपले आहे
+Baby is sleeping 
+gt:The baby is sleeping
+rt:The baby is sleeping
+
+908)दार बंद आहे
+Door is close 
+gt:The door is closed
+rt:The door is closed
+
+909)पाऊस पडतो आहे
+Rain is falling 
+gt:Rain falls
+rt:Rain is falling 
+
+910)मोर सुंदर नाचतो
+Peacock dance beautiful 
+gt:More beautiful nacato
+rt:The peacock dances baeutifully
+
+911)मातीचा सुगंध आला
+From sand comes aroma
+gt:The earthen aroma
+rt:The sand smells nice
+
+912)लता सुरेल गाते
+Lata sings nicely
+gt:Lata songs to sing
+rt:Lata sings nicely
+
+913)बर्फ गार आहे
+Snow is cold
+gt:Ice is cool
+rt:The snow is cold
+
+914)सरबत गोड आहे
+Drink is sweet 
+gt:The syrup is sweet
+rt:The drink is sweet
+
+915)साखर कमी आहे
+Sugar is less 
+gt:Is low in sugar
+rt:The sugar is low
+
+916)ती शाळेत आहे
+She is in school
+gt:It is the school
+rt:She is in school
+
+917)अपूर्वा पुस्तक वाचते आहे
+Apurva is reading book
+gt:Apoorva reads the book
+rt:Apurva is reading a book
+
+918)करण दंगेखोर आहे
+Karan is naughty
+gt:Karan is boisterous
+rt:karan is naughty
+
+919)करण व्यायाम करतो आहे
+Karan is doing exercise 
+gt:Karan is the exercise that
+rt:karan is doing exercise
+
+920)अक्षय चपळ आहे 
+Akshay is fast 
+gt:Akshay is quick
+rt:akshay is quick
+
+921)ती डबा खाते आहे
+She is eating tiffin 
+gt:She is Container account
+rt:she is eating tiffin
+
+922)करण चित्र काढतो आहे
+Karan is drawing picture 
+gt:Karan is out of the picture
+rt:karan is drawing a picture
+
+923)करण वेडा आहे
+Karan is mad
+gt:Karan is crazy
+rt:Karan is mad
+
+924)भिंत रुंद आहे
+Wall is wide 
+gt:The wall is wide
+rt:The wall is wide
+
+925)दगड टणक आहे
+Stone is hard 
+gt:The stone is firm
+rt:The stone is firm
+
+926)डिंक चिकट आहे
+Gum is sticky 
+gt:Gum is sticky
+rt:The gum is sticky
+
+927)तो हट्टी आहे
+He is stubborn 
+gt:It is contrary
+rt:He is stubborn
+
+928)खुर्ची उंच आहे
+Chair is tall 
+gt:High chair
+rt:The chair is tall
+
+929)खेकडा वाकडा चालतो
+Crab walks awry 
+gt:Crab walks awry
+rt:Crab walks awry
+
+87आंबा केशरी आहे
+Mango is orange 
+gt:Mango is orange
+rt:The mango is orange
+
+930)आई साडी नेसते
+Mother wears saree 
+gt:I sari nesate
+rt:mother wears saree
+
+931)ती जिन्यात आहे
+She is in stair 
+gt:It is itself
+rt:She is on the stairs
+
+932)केतकी गोरी आहे
+Ketki is fair 
+gt:The fragrant white
+rt:Ketki is fair
+
+933)तो पत्रकार आहे
+He is journalist 
+gt:It is the press
+rt:He is a journalist
+
+934)करण खूप लिहितो
+Karan writes alot 
+gt:Karan write too
+rt:Karan writes alot
+
+935)धोनि संघप्रमुख आहे
+Dhoni is captain 
+gt:Dhoni is sanghapramukha
+rt:Dhoni is the captain
+
+936)कोहली सामनावीर आहे
+Kohli is man of the match 
+gt:Kohli Man of the Match
+rt:kohli is man of the match
+
+937)रैना फलंदाज आहे
+Raina is batsman 
+gt:Raina Bat
+rt:Raina is a batsman
+
+938)तो गोलंदाज आहे
+He is bowler 
+gt:It is bowling
+rt:he is a bowler
+
+939)ती बॅडमिंटन खेळते
+She plays badminton 
+gt:That single working
+rt:she plays badminton
+
+940)तो फुटबॉल खेळतो
+He plays football 
+gt:He plays football
+rt:he plays fotball
+
+941)तो सुस्वभावी आहे
+He is good natured 
+gt:It is good-natured
+rt:He is good natured
+
+942)तो गुणवान आहे
+He is talented 
+gt:It is the genius
+rt:he is talented
+
+943)जिना मोठा आहे
+Stair is big 
+gt:Jina is large
+rt:The stair is big
+
+944)मासा रंगीत आहे
+Fish is colorful 
+gt:Fish is colorful
+rt:fish is colourful
+
+945)सोफा मजबूत आहे
+Sofa is strong 
+gt:The sofa is strong
+rt:The sofa is strong
+
+946)पान हिरवे आहे
+Leaf is green 
+gt:Green home
+rt:The leaf is green
+
+947)नजर तीक्ष्ण आहे 
+Vision is sharp
+gt:Look sharp
+rt:vision is sharp
+
+948)पिंपळ सावली देतो 
+Peepal gives shade 
+gt:Gives Pipal shadow
+rt:peepal gives shade
+
+949)ताक आंबट आहे
+Buttermilk is sour 
+gt:Buttermilk is sour
+rt:buttermilk is sour
+
+950)परीक्षा सोपी आहे 
+Exam is simple 
+gt:Test is simple
+rt:The exam is simple
+
+951)भोपळा गोल आहे
+Pumpkin is circle(round) 
+gt:Pumpkin round
+rt:pumpkin is round
+
+952)बेडूक हिरवे आहे 
+Frog is green 
+gt:Frog is green
+rt:frog is green
+
+953)निलय आळशी आहे
+Nilay is lazy 
+gt:Ventricle is lazy
+rt:nilay is lazy
+
+954)पुस्तक अवघड आहे
+Book is difficult 
+gt:The book is difficult
+rt:The book is difficult
+
+956)रबर ताणले आहे  
+Rubber is stretched 
+gt:Rubber is spreads
+rt:The rubber is stretched
+
+957)राजा न्यायी आहे
+King is just 
+gt:King is equal
+rt:The king is just 
+ 
+958)तो धूर्त आहे
+He is cunning 
+gt:It is wide
+rt:He is cunning 
+
+959)सिंह भीतीदायक आहे 
+Lion is terrifying 
+gt:Singh is terrible
+rt:The lion is terrifying
+
+960)गुलाबजाम महाग आहे
+Gulabjam is costly 
+gt:Gulabjamun is expensive
+rt:Gulabjamun is costly
+
+961)सिंह राजा आहे
+Lion is king 
+gt:Singh is King
+rt:lion is the king
+
+962)ससा घाबरट आहे
+Rabbit is timid 
+gt:Rabbit is a member
+rt:Rabbit is timid 
+
+963) येथे तुम्ही नौकाविहाराचा आनंद घेऊ शकता
+Here you can take boat riding's pleasure
+gt:Here you can enjoy Boating
+rt:Here you can enjoy Boating
+
+964)येथे तुम्ही रोईंगचा आनंद घेऊ शकता
+Here you can take rowing's pleasure 
+gt:Here you can enjoy the rowing
+rt:Here you can enjoy the rowing
+
+965)येथे तुम्ही भ्रमणचा आनंद घेऊ शकता
+Here you can take tour's pleasure 
+gt:Here you can enjoy the tour
+rt:Here you can enjoy the tour
+
+966)येथे तुम्ही देखाव्याचा आनंद घेऊ शकता
+Here you can take fair's pleasure 
+gt:Here you can enjoy the look
+rt:Here you can enjoy the look
+
+967)येथे तुम्ही उत्सवाचा आनंद घेऊ शकता
+Here you can take festival's pleasure 
+gt:Here you can enjoy the festive
+rt:Here you can enjoy the festival
+
+968)जवळच मांगरोल आहे
+Mangrol is nearby 
+gt:Nearby is mangarola
+rt:Mangrol is nearby 
+
+969)जवळच महाबळेश्वर आहे
+Mahableshwar is nearby 
+gt:It is Mahabaleshwar
+rt:Mahableshwar is nearby 
+
+970)जवळच मंदिर आहे
+Temple is nearby 
+gt:The temple is near
+rt:Temple is nearby 
+
+971)जवळच निवासस्थान आहे
+Residence is nearby 
+gt:Near the house
+rt:Residence is nearby 
+
+972)जवळच शहर आहे
+City is nearby 
+gt:The city is near
+rt:City is nearby 
+
+973)जवळच महामार्ग आहे
+Highway is nearby 
+gt:Near the highway
+rt:Highway is nearby 
+
+974)मूर्तीला चार हात आहेत
+Four hands are to idol 
+gt:The image of four arms
+rt:The idol has four hands
+
+975)बाहेर गोमती नदी वाहत आहे
+Gomati river is flowing outside 
+gt:Gomti river is flowing out
+rt:Gomati river is flowing outside 
+
+976)जवळच यमुना नदी वाहत आहे
+Yamuna river is flowing nearby 
+gt:Near the river Yamuna is flowing
+rt:Yamuna river is flowing nearby 
+
+977)बाहेर पावसात मोर नाचत आहे
+In rain peacock is dancing outside 
+gt:More rain is going out
+rt:The peacock is dancing in rain outside
+
+978)जवळच्या गावात देखावा अाहे
+To a nearby in village is fair 
+gt:Might look near the village
+rt:There is a fare in a nearby village
+
+979)जवळच्या मंदिरात पूजा अाहे
+To a nearby in temple is worship 
+gt:Might worship in the temple near the
+rt:In a nearby temple is worship
+
+980)जवळच्या नदीत नौकाविहार अाहे
+To a nearby in river is boat riding 
+gt:By the river boating might
+rt:In a nearby river is boat riding 
+
+981)जवळच्या गावात राहण्याची सोय अाहे
+To a nearby in village is living's arrangement 
+gt:Living near the village might facilitate
+rt:Living arrangement is in a naeby village
+
+982)जवळच्या मंदिरात जेवण्याची सोय अाहे
+To a nearby in temple is eating's arrangement 
+gt:Near the house might eat much soy
+rt:Eating arrangement is in a naerby temple
+
+983)ल्यूकरबादची लोकसंख्या १५०० आहे
+Leukarbad's population is 1500 
+gt:Lyukarabadaci population of 1500
+rt:Leukarbad's population is 1500 
+
+984)पुण्याची लोकसंख्या २५ लाख आहे
+Pune's population is 25 lakh 
+gt:Pune has a population of 25 million
+rt:Pune's population is 25 lakh 
+
+985)भारताची लोकसंख्या १२० कोटी आहे
+India's population is 120 crore 
+gt:India has a population of 120 million
+rt:India's population is 120 crore 
+
+986)अमेरिकेची लोकसंख्या ३१ कोटी आहे
+America's population is 31 crore 
+gt:America's population is 31 million
+rt:America's population is 31 crore 
+
+987)शिमलाची लोकसंख्या दीड लाख आहे
+Shimla's population is one and a half lakh 
+gt:Simalaci population is half a million
+rt:Shimla's population is one and a half lakh 
+
+988)जवळच्या महालात कारंजे अाहेत
+To a nearby in palace has fountains 
+gt:By the fountain house might
+rt:a nearby palace has fountains 
+
+989)येथे राहण्याचा खर्च १८००० अाहे 
+Here living's expenditure is 18000 
+gt:Might be at the cost of 18,000
+rt:Here living's expenditure is 18000 
+
+990)भारतामध्ये प्रवासाचा खर्च साधारण २०००० रूपये अाहे
+In India travel's expenditure is normally 20000 Rupees
+gt:Trip cost around Rs 20,000 in India might
+rt:In India travel's expenditure is normally 20000 Rupees
+
+991)अमेरिकेत प्रवासाचा खर्च साधारण १८००० डॉलर अाहे
+In America travel's expenditure is normally 18000 dollar 
+gt:Trip cost around 18,000 US dollars might
+rt:In America travel's expenditure is normally 18000 dollar 
+
+992)चीनमध्ये प्रवासाचा खर्च साधारण १५००० डॉलर अाहे
+In China travel's expenditure is normally 15000 dollar 
+gt:Trip cost around $ 15,000 in China might
+rt:In China travel's expenditure is normally 15000 dollar 
+
+993)भारतामध्ये उपचाराचा खर्च साधारण २५००० रूपये अाहे
+In India treatment's expenditure is normally 25000 Rupees 
+gt:Treatment cost around Rs 25,000 in India might
+rt:In India treatment's expenditure is normally 25000 Rupees 
+
+994)भारतामध्ये व्यवसायाचा खर्च साधारण २५००० रूपये अाहे
+In India occupation's expenditure is normally 25000 Rupees
+gt:In India, the business might spend around Rs 25,000
+rt:In India businees expenditure us normally 25000 Rupees
+
+995)अमेरिकेत व्यवसायाचा खर्च साधारण ३०००० डॉलर अाहे
+In America occupation's expenditure is normally 30000 dollar 
+gt:US business might cost around US $ 30,000
+rt:In India businees expenditure us normally 30,000 dollars
+
+996)युरोपमध्ये प्रवासाचा खर्च साधारण २८००० डॉलर अाहे 
+In Europe travel's expenditure is normally 28000 dollar 
+gt:Europe Trip costs around 28000 dollars might
+rt:In Europe travel expenditure is normally 28000 dollar 
+
+997)भारतामध्ये पर्वतारोहणाचा खर्च साधारण २५००० रूपये अाहे
+In India mountaineering's expenditure is normally 25000 Rupees
+gt:India parvatarohanaca cost around Rs 25,000 might
+rt:In India mountaineering's expenditure is normally 25000 Rupees
+
+998)भारतामध्ये नौकाविहाराचा खर्च साधारण १००० रूपये अाहे
+In India boat riding's expenditure is normally 1000 Rupees
+gt:Boating might cost around Rs 1000 in India
+rt:In India boat riding's expenditure is normally 1000 Rupees
+
+999)सुल्तानपूरमध्ये पक्ष्यांच्या २५० जाती आहेत
+In Sultanpur are bird's 250 species 
+gt:There are 250 species of birds in sultanapura
+rt:There are 250 species of birds in sultanapura
+
+1000)राजस्थानमध्ये पक्ष्यांच्या ३०० जाती आहेत
+In Rajasthan are bird's 300 species 
+gt:There are 300 species of birds in Rajasthan
+rt:There are 300 species of birds in Rajasthan
+
+1001)महाराष्ट्रात जनावरांच्या १३९ जाती अाहेत
+In Maharashtra are animal's 139 species 
+gt:139 species of animals might Maharashtra
+rt:There are 139 species in Maharashtra
+
+1002)भारतामध्ये फूलांच्या १५००० जाती अाहेत
+In India are flower's 15000 species 
+gt:In India, the 15000 is phulam might
+rt:There are 15000 species of flowers in India
+
+1003)भारतामध्ये प्राण्यांच्या ८६०००० जाती अाहेत
+In India are animal's 860000 species 
+gt:India might breed animals 860000
+rt:There are 860000 species of animals in India
+
+1004)जवळचे स्थानक जैसलमेर आहे
+Nearby station is Jaisalmer 
+gt:The nearest station is in Jaisalmer
+rt:Nearby station is Jaisalmer 
+
+1005)जवळचे स्थानक जयपूर आहे
+Nearby station is Jaipur 
+gt:Jaipur is the nearest station
+rt:Nearby station is Jaipur 
+
+1006)जवळचे विमानतळ जयपूर आहे
+Nearby airport is Jaipur 
+gt:The nearest airport is Jaipur
+rt:Nearby airport is Jaipur 
+
+1007)जवळचे विमानतळ कोलकाता आहे
+Nearby airport is Kolkata 
+gt:The nearest airport is in Kolkata
+rt:Nearby airport is Kolkata 
+
+1008)जवळचे शहर कोलकाता आहे
+Nearby city is Kolkata 
+gt:The nearest city is Kolkata
+rt:Nearby city is Kolkata 
+
+1009)ढोकला गुजरातचे वैशिष्टय अाहे 
+Dhokla is Gujarat's speciality 
+gt:Dhokla might Gujarat Specialty
+rt:Dhokla is Gujarat's speciality 
+
+1010)भाकरी महाराष्ट्राचे वैशिष्टय अाहे
+Bhakari is Maharashtra's speciality 
+gt:Maharashtra specialty bread might
+rt:Bhakari is Maharashtra's speciality 
+
+1011)इडली केरळचे वैशिष्टय अाहे
+Idli is Kerala's speciality 
+gt:Idly Kerala specialty might
+rt:Idli is Kerala's speciality 
+
+1012) डोसा केरळचे वैशिष्टय अाहे
+Dosa is Kerala's speciality 
+gt:Dosa Kerala specialty might
+rt:Dosa is Kerala's speciality 
+
+1013)येथे ६४ प्रकारचे पक्षी आढळतात
+Here are found 64 types of bird 
+gt:64 species of birds are found here
+rt:Here 64 types of birds are found
+
+1014).शुभ रात्र
+Good(happy) night
+GT:good night
+RT:good night
+
+1015)शुभ प्रभात
+Good(happy) morning
+GT:good morning
+RT:good morning
+
+

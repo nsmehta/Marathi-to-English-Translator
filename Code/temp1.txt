@@ -1,0 +1,3 @@
+मल,n,m,sg,AAA,o,ा,ा
+तू,pn,AAA,sg,AAA,d,AAA,AAA
+आवड,v,m,sg,2,AAA,तोस,तोस
